@@ -1,0 +1,68 @@
+body{
+
+    background:linear-gradient(
+    135deg,
+    #22bdce,
+    #ffffff);
+
+    min-height:100vh;
+}
+
+.hero-section{
+
+    background:linear-gradient(
+    135deg,
+    #2563eb,
+    #7c3aed);
+
+    color:white;
+
+    padding:80px 20px;
+
+    margin-bottom:40px;
+}
+
+.hero-section h1{
+
+    font-size:3rem;
+
+    font-weight:700;
+}
+
+.card{
+
+    border:none;
+
+    border-radius:20px;
+}
+
+.card:hover{
+
+    transform:translateY(-4px);
+
+    transition:0.3s;
+}
+
+.form-control,
+.form-select{
+
+    border-radius:10px;
+}
+
+.btn-primary{
+
+    width:100%;
+
+    padding:14px;
+
+    border-radius:12px;
+
+    font-size:18px;
+
+    font-weight:600;
+}
+
+footer{
+
+    color:#6b7280;
+}

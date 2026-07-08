@@ -1,0 +1,1285 @@
+eligibility_id,course_id,eligible_group,caste,min_cutoff_mark,entry_type
+1,CRS_2001,"PCM (Physics, Chemistry, Mathematics)",OC,190.84,12th
+2,CRS_2001,"PCM (Physics, Chemistry, Mathematics)",BC,185.56,12th
+3,CRS_2001,"PCM (Physics, Chemistry, Mathematics)",MBC,180.21,12th
+4,CRS_2001,"PCM (Physics, Chemistry, Mathematics)",SC/ST,168.09,12th
+5,CRS_2001,Relevant Diploma in Engineering / Technology,OC,96.4,Diploma
+6,CRS_2001,Relevant Diploma in Engineering / Technology,BC,94.15,Diploma
+7,CRS_2001,Relevant Diploma in Engineering / Technology,MBC,88.79,Diploma
+8,CRS_2001,Relevant Diploma in Engineering / Technology,SC/ST,80.35,Diploma
+9,CRS_2002,"PCM (Physics, Chemistry, Mathematics)",OC,194.06,12th
+10,CRS_2002,"PCM (Physics, Chemistry, Mathematics)",BC,189.99,12th
+11,CRS_2002,"PCM (Physics, Chemistry, Mathematics)",MBC,185.62,12th
+12,CRS_2002,"PCM (Physics, Chemistry, Mathematics)",SC/ST,176.49,12th
+13,CRS_2002,Relevant Diploma in Engineering / Technology,OC,195.9,Diploma
+14,CRS_2002,Relevant Diploma in Engineering / Technology,BC,194.81,Diploma
+15,CRS_2002,Relevant Diploma in Engineering / Technology,MBC,188.64,Diploma
+16,CRS_2002,Relevant Diploma in Engineering / Technology,SC/ST,186.07,Diploma
+17,CRS_2003,"PCM (Physics, Chemistry, Mathematics)",OC,184.05,12th
+18,CRS_2003,"PCM (Physics, Chemistry, Mathematics)",BC,180.98,12th
+19,CRS_2003,"PCM (Physics, Chemistry, Mathematics)",MBC,174.3,12th
+20,CRS_2003,"PCM (Physics, Chemistry, Mathematics)",SC/ST,160.53,12th
+21,CRS_2003,Relevant Diploma in Engineering / Technology,OC,189.47,Diploma
+22,CRS_2003,Relevant Diploma in Engineering / Technology,BC,191.06,Diploma
+23,CRS_2003,Relevant Diploma in Engineering / Technology,MBC,187.16,Diploma
+24,CRS_2003,Relevant Diploma in Engineering / Technology,SC/ST,178.32,Diploma
+25,CRS_2004,"PCM (Physics, Chemistry, Mathematics)",OC,190.56,12th
+26,CRS_2004,"PCM (Physics, Chemistry, Mathematics)",BC,187.12,12th
+27,CRS_2004,"PCM (Physics, Chemistry, Mathematics)",MBC,181.51,12th
+28,CRS_2004,"PCM (Physics, Chemistry, Mathematics)",SC/ST,161.93,12th
+29,CRS_2004,Relevant Diploma in Engineering / Technology,OC,93.34,Diploma
+30,CRS_2004,Relevant Diploma in Engineering / Technology,BC,89.48,Diploma
+31,CRS_2004,Relevant Diploma in Engineering / Technology,MBC,87.67,Diploma
+32,CRS_2004,Relevant Diploma in Engineering / Technology,SC/ST,85.67,Diploma
+33,CRS_2005,"PCM (Physics, Chemistry, Mathematics)",OC,193.95,12th
+34,CRS_2005,"PCM (Physics, Chemistry, Mathematics)",BC,189.19,12th
+35,CRS_2005,"PCM (Physics, Chemistry, Mathematics)",MBC,182.8,12th
+36,CRS_2005,"PCM (Physics, Chemistry, Mathematics)",SC/ST,168,12th
+37,CRS_2005,Relevant Diploma in Engineering / Technology,OC,195.46,Diploma
+38,CRS_2005,Relevant Diploma in Engineering / Technology,BC,196.3,Diploma
+39,CRS_2005,Relevant Diploma in Engineering / Technology,MBC,190.21,Diploma
+40,CRS_2005,Relevant Diploma in Engineering / Technology,SC/ST,182.51,Diploma
+41,CRS_2006,"PCM (Physics, Chemistry, Mathematics)",OC,184.84,12th
+42,CRS_2006,"PCM (Physics, Chemistry, Mathematics)",BC,181.11,12th
+43,CRS_2006,"PCM (Physics, Chemistry, Mathematics)",MBC,173.36,12th
+44,CRS_2006,"PCM (Physics, Chemistry, Mathematics)",SC/ST,161.1,12th
+45,CRS_2006,Relevant Diploma in Engineering / Technology,OC,91.53,Diploma
+46,CRS_2006,Relevant Diploma in Engineering / Technology,BC,93.08,Diploma
+47,CRS_2006,Relevant Diploma in Engineering / Technology,MBC,85.11,Diploma
+48,CRS_2006,Relevant Diploma in Engineering / Technology,SC/ST,83,Diploma
+49,CRS_2007,"PCM (Physics, Chemistry, Mathematics)",OC,188.78,12th
+50,CRS_2007,"PCM (Physics, Chemistry, Mathematics)",BC,185.54,12th
+51,CRS_2007,"PCM (Physics, Chemistry, Mathematics)",MBC,177.38,12th
+52,CRS_2007,"PCM (Physics, Chemistry, Mathematics)",SC/ST,167.78,12th
+53,CRS_2007,Relevant Diploma in Engineering / Technology,OC,188.78,Diploma
+54,CRS_2007,Relevant Diploma in Engineering / Technology,BC,184.06,Diploma
+55,CRS_2007,Relevant Diploma in Engineering / Technology,MBC,180.38,Diploma
+56,CRS_2007,Relevant Diploma in Engineering / Technology,SC/ST,160.1,Diploma
+57,CRS_2008,"PCM (Physics, Chemistry, Mathematics)",OC,192.54,12th
+58,CRS_2008,"PCM (Physics, Chemistry, Mathematics)",BC,186.79,12th
+59,CRS_2008,"PCM (Physics, Chemistry, Mathematics)",MBC,179.92,12th
+60,CRS_2008,"PCM (Physics, Chemistry, Mathematics)",SC/ST,172.55,12th
+61,CRS_2008,Relevant Diploma in Engineering / Technology,OC,96.26,Diploma
+62,CRS_2008,Relevant Diploma in Engineering / Technology,BC,93.52,Diploma
+63,CRS_2008,Relevant Diploma in Engineering / Technology,MBC,93.03,Diploma
+64,CRS_2008,Relevant Diploma in Engineering / Technology,SC/ST,82.12,Diploma
+65,CRS_2009,"PCM (Physics, Chemistry, Mathematics)",OC,195.46,12th
+66,CRS_2009,"PCM (Physics, Chemistry, Mathematics)",BC,190.62,12th
+67,CRS_2009,"PCM (Physics, Chemistry, Mathematics)",MBC,188.34,12th
+68,CRS_2009,"PCM (Physics, Chemistry, Mathematics)",SC/ST,172.22,12th
+69,CRS_2009,Relevant Diploma in Engineering / Technology,OC,97.23,Diploma
+70,CRS_2009,Relevant Diploma in Engineering / Technology,BC,93.7,Diploma
+71,CRS_2009,Relevant Diploma in Engineering / Technology,MBC,90.76,Diploma
+72,CRS_2009,Relevant Diploma in Engineering / Technology,SC/ST,93.67,Diploma
+73,CRS_2010,"PCM (Physics, Chemistry, Mathematics)",OC,187.21,12th
+74,CRS_2010,"PCM (Physics, Chemistry, Mathematics)",BC,182.1,12th
+75,CRS_2010,"PCM (Physics, Chemistry, Mathematics)",MBC,178,12th
+76,CRS_2010,"PCM (Physics, Chemistry, Mathematics)",SC/ST,170.01,12th
+77,CRS_2010,Relevant Diploma in Engineering / Technology,OC,90.27,Diploma
+78,CRS_2010,Relevant Diploma in Engineering / Technology,BC,90.46,Diploma
+79,CRS_2010,Relevant Diploma in Engineering / Technology,MBC,89.17,Diploma
+80,CRS_2010,Relevant Diploma in Engineering / Technology,SC/ST,81.47,Diploma
+81,CRS_2011,"PCM (Physics, Chemistry, Mathematics)",OC,194.62,12th
+82,CRS_2011,"PCM (Physics, Chemistry, Mathematics)",BC,188.96,12th
+83,CRS_2011,"PCM (Physics, Chemistry, Mathematics)",MBC,185.47,12th
+84,CRS_2011,"PCM (Physics, Chemistry, Mathematics)",SC/ST,163.37,12th
+85,CRS_2011,Relevant Diploma in Engineering / Technology,OC,93.12,Diploma
+86,CRS_2011,Relevant Diploma in Engineering / Technology,BC,92.35,Diploma
+87,CRS_2011,Relevant Diploma in Engineering / Technology,MBC,85.98,Diploma
+88,CRS_2011,Relevant Diploma in Engineering / Technology,SC/ST,83.49,Diploma
+89,CRS_2012,"PCM (Physics, Chemistry, Mathematics)",OC,193.83,12th
+90,CRS_2012,"PCM (Physics, Chemistry, Mathematics)",BC,188.32,12th
+91,CRS_2012,"PCM (Physics, Chemistry, Mathematics)",MBC,181.44,12th
+92,CRS_2012,"PCM (Physics, Chemistry, Mathematics)",SC/ST,173.32,12th
+93,CRS_2012,Relevant Diploma in Engineering / Technology,OC,100,Diploma
+94,CRS_2012,Relevant Diploma in Engineering / Technology,BC,92.24,Diploma
+95,CRS_2012,Relevant Diploma in Engineering / Technology,MBC,88.49,Diploma
+96,CRS_2012,Relevant Diploma in Engineering / Technology,SC/ST,87.71,Diploma
+97,CRS_2013,"PCM (Physics, Chemistry, Mathematics)",OC,195.35,12th
+98,CRS_2013,"PCM (Physics, Chemistry, Mathematics)",BC,191.35,12th
+99,CRS_2013,"PCM (Physics, Chemistry, Mathematics)",MBC,184.43,12th
+100,CRS_2013,"PCM (Physics, Chemistry, Mathematics)",SC/ST,177.1,12th
+101,CRS_2013,Relevant Diploma in Engineering / Technology,OC,100,Diploma
+102,CRS_2013,Relevant Diploma in Engineering / Technology,BC,100,Diploma
+103,CRS_2013,Relevant Diploma in Engineering / Technology,MBC,88.94,Diploma
+104,CRS_2013,Relevant Diploma in Engineering / Technology,SC/ST,87.17,Diploma
+105,CRS_2014,"PCM (Physics, Chemistry, Mathematics)",OC,184.24,12th
+106,CRS_2014,"PCM (Physics, Chemistry, Mathematics)",BC,180.36,12th
+107,CRS_2014,"PCM (Physics, Chemistry, Mathematics)",MBC,172.4,12th
+108,CRS_2014,"PCM (Physics, Chemistry, Mathematics)",SC/ST,164.21,12th
+109,CRS_2014,Relevant Diploma in Engineering / Technology,OC,91.33,Diploma
+110,CRS_2014,Relevant Diploma in Engineering / Technology,BC,85.62,Diploma
+111,CRS_2014,Relevant Diploma in Engineering / Technology,MBC,89.75,Diploma
+112,CRS_2014,Relevant Diploma in Engineering / Technology,SC/ST,75.24,Diploma
+113,CRS_2015,"PCM (Physics, Chemistry, Mathematics)",OC,181.66,12th
+114,CRS_2015,"PCM (Physics, Chemistry, Mathematics)",BC,177.92,12th
+115,CRS_2015,"PCM (Physics, Chemistry, Mathematics)",MBC,173.66,12th
+116,CRS_2015,"PCM (Physics, Chemistry, Mathematics)",SC/ST,162.72,12th
+117,CRS_2015,Relevant Diploma in Engineering / Technology,OC,88.04,Diploma
+118,CRS_2015,Relevant Diploma in Engineering / Technology,BC,90.9,Diploma
+119,CRS_2015,Relevant Diploma in Engineering / Technology,MBC,86.44,Diploma
+120,CRS_2015,Relevant Diploma in Engineering / Technology,SC/ST,77.82,Diploma
+121,CRS_2016,"PCM (Physics, Chemistry, Mathematics)",OC,180.14,12th
+122,CRS_2016,"PCM (Physics, Chemistry, Mathematics)",BC,176.18,12th
+123,CRS_2016,"PCM (Physics, Chemistry, Mathematics)",MBC,168.86,12th
+124,CRS_2016,"PCM (Physics, Chemistry, Mathematics)",SC/ST,164.12,12th
+125,CRS_2016,Relevant Diploma in Engineering / Technology,OC,90.99,Diploma
+126,CRS_2016,Relevant Diploma in Engineering / Technology,BC,89.31,Diploma
+127,CRS_2016,Relevant Diploma in Engineering / Technology,MBC,81.79,Diploma
+128,CRS_2016,Relevant Diploma in Engineering / Technology,SC/ST,79.23,Diploma
+129,CRS_2017,"PCM (Physics, Chemistry, Mathematics)",OC,189.36,12th
+130,CRS_2017,"PCM (Physics, Chemistry, Mathematics)",BC,184.14,12th
+131,CRS_2017,"PCM (Physics, Chemistry, Mathematics)",MBC,179.16,12th
+132,CRS_2017,"PCM (Physics, Chemistry, Mathematics)",SC/ST,172.65,12th
+133,CRS_2017,Relevant Diploma in Engineering / Technology,OC,97.78,Diploma
+134,CRS_2017,Relevant Diploma in Engineering / Technology,BC,89.54,Diploma
+135,CRS_2017,Relevant Diploma in Engineering / Technology,MBC,90.99,Diploma
+136,CRS_2017,Relevant Diploma in Engineering / Technology,SC/ST,82.35,Diploma
+137,CRS_2018,"PCM (Physics, Chemistry, Mathematics)",OC,183.19,12th
+138,CRS_2018,"PCM (Physics, Chemistry, Mathematics)",BC,178.27,12th
+139,CRS_2018,"PCM (Physics, Chemistry, Mathematics)",MBC,169.55,12th
+140,CRS_2018,"PCM (Physics, Chemistry, Mathematics)",SC/ST,151.25,12th
+141,CRS_2018,Relevant Diploma in Engineering / Technology,OC,87.61,Diploma
+142,CRS_2018,Relevant Diploma in Engineering / Technology,BC,88.16,Diploma
+143,CRS_2018,Relevant Diploma in Engineering / Technology,MBC,86,Diploma
+144,CRS_2018,Relevant Diploma in Engineering / Technology,SC/ST,83.68,Diploma
+145,CRS_2019,"PCM (Physics, Chemistry, Mathematics)",OC,185.11,12th
+146,CRS_2019,"PCM (Physics, Chemistry, Mathematics)",BC,180.77,12th
+147,CRS_2019,"PCM (Physics, Chemistry, Mathematics)",MBC,172.13,12th
+148,CRS_2019,"PCM (Physics, Chemistry, Mathematics)",SC/ST,155.13,12th
+149,CRS_2019,Relevant Diploma in Engineering / Technology,OC,90.84,Diploma
+150,CRS_2019,Relevant Diploma in Engineering / Technology,BC,92.2,Diploma
+151,CRS_2019,Relevant Diploma in Engineering / Technology,MBC,89.58,Diploma
+152,CRS_2019,Relevant Diploma in Engineering / Technology,SC/ST,74.88,Diploma
+153,CRS_2020,"PCM (Physics, Chemistry, Mathematics)",OC,184.14,12th
+154,CRS_2020,"PCM (Physics, Chemistry, Mathematics)",BC,180.33,12th
+155,CRS_2020,"PCM (Physics, Chemistry, Mathematics)",MBC,172.23,12th
+156,CRS_2020,"PCM (Physics, Chemistry, Mathematics)",SC/ST,156.21,12th
+157,CRS_2020,Relevant Diploma in Engineering / Technology,OC,94.43,Diploma
+158,CRS_2020,Relevant Diploma in Engineering / Technology,BC,88.75,Diploma
+159,CRS_2020,Relevant Diploma in Engineering / Technology,MBC,81.88,Diploma
+160,CRS_2020,Relevant Diploma in Engineering / Technology,SC/ST,78.39,Diploma
+161,CRS_2021,"PCM (Physics, Chemistry, Mathematics)",OC,180.65,12th
+162,CRS_2021,"PCM (Physics, Chemistry, Mathematics)",BC,176.84,12th
+163,CRS_2021,"PCM (Physics, Chemistry, Mathematics)",MBC,169.53,12th
+164,CRS_2021,"PCM (Physics, Chemistry, Mathematics)",SC/ST,155.44,12th
+165,CRS_2021,Relevant Diploma in Engineering / Technology,OC,94.33,Diploma
+166,CRS_2021,Relevant Diploma in Engineering / Technology,BC,86.8,Diploma
+167,CRS_2021,Relevant Diploma in Engineering / Technology,MBC,82.87,Diploma
+168,CRS_2021,Relevant Diploma in Engineering / Technology,SC/ST,80.62,Diploma
+169,CRS_2022,"PCM (Physics, Chemistry, Mathematics)",OC,177.11,12th
+170,CRS_2022,"PCM (Physics, Chemistry, Mathematics)",BC,172.04,12th
+171,CRS_2022,"PCM (Physics, Chemistry, Mathematics)",MBC,167.4,12th
+172,CRS_2022,"PCM (Physics, Chemistry, Mathematics)",SC/ST,157.44,12th
+173,CRS_2022,Relevant Diploma in Engineering / Technology,OC,92.28,Diploma
+174,CRS_2022,Relevant Diploma in Engineering / Technology,BC,88.97,Diploma
+175,CRS_2022,Relevant Diploma in Engineering / Technology,MBC,84.65,Diploma
+176,CRS_2022,Relevant Diploma in Engineering / Technology,SC/ST,75.44,Diploma
+177,CRS_2023,"PCM (Physics, Chemistry, Mathematics)",OC,182.02,12th
+178,CRS_2023,"PCM (Physics, Chemistry, Mathematics)",BC,177.61,12th
+179,CRS_2023,"PCM (Physics, Chemistry, Mathematics)",MBC,172.56,12th
+180,CRS_2023,"PCM (Physics, Chemistry, Mathematics)",SC/ST,158.72,12th
+181,CRS_2023,Relevant Diploma in Engineering / Technology,OC,88.6,Diploma
+182,CRS_2023,Relevant Diploma in Engineering / Technology,BC,86.53,Diploma
+183,CRS_2023,Relevant Diploma in Engineering / Technology,MBC,89.19,Diploma
+184,CRS_2023,Relevant Diploma in Engineering / Technology,SC/ST,74.96,Diploma
+185,CRS_2024,"PCM (Physics, Chemistry, Mathematics)",OC,187.02,12th
+186,CRS_2024,"PCM (Physics, Chemistry, Mathematics)",BC,183.73,12th
+187,CRS_2024,"PCM (Physics, Chemistry, Mathematics)",MBC,176.8,12th
+188,CRS_2024,"PCM (Physics, Chemistry, Mathematics)",SC/ST,160.29,12th
+189,CRS_2024,Relevant Diploma in Engineering / Technology,OC,95.16,Diploma
+190,CRS_2024,Relevant Diploma in Engineering / Technology,BC,86.06,Diploma
+191,CRS_2024,Relevant Diploma in Engineering / Technology,MBC,86.12,Diploma
+192,CRS_2024,Relevant Diploma in Engineering / Technology,SC/ST,85.17,Diploma
+193,CRS_2025,"PCM (Physics, Chemistry, Mathematics)",OC,181.47,12th
+194,CRS_2025,"PCM (Physics, Chemistry, Mathematics)",BC,177.26,12th
+195,CRS_2025,"PCM (Physics, Chemistry, Mathematics)",MBC,167.86,12th
+196,CRS_2025,"PCM (Physics, Chemistry, Mathematics)",SC/ST,156.18,12th
+197,CRS_2025,Relevant Diploma in Engineering / Technology,OC,87.33,Diploma
+198,CRS_2025,Relevant Diploma in Engineering / Technology,BC,87.51,Diploma
+199,CRS_2025,Relevant Diploma in Engineering / Technology,MBC,87.79,Diploma
+200,CRS_2025,Relevant Diploma in Engineering / Technology,SC/ST,74.58,Diploma
+201,CRS_2026,"PCM (Physics, Chemistry, Mathematics)",OC,179.28,12th
+202,CRS_2026,"PCM (Physics, Chemistry, Mathematics)",BC,174.83,12th
+203,CRS_2026,"PCM (Physics, Chemistry, Mathematics)",MBC,172.15,12th
+204,CRS_2026,"PCM (Physics, Chemistry, Mathematics)",SC/ST,161.09,12th
+205,CRS_2026,Relevant Diploma in Engineering / Technology,OC,89.37,Diploma
+206,CRS_2026,Relevant Diploma in Engineering / Technology,BC,85.25,Diploma
+207,CRS_2026,Relevant Diploma in Engineering / Technology,MBC,83.49,Diploma
+208,CRS_2026,Relevant Diploma in Engineering / Technology,SC/ST,77.83,Diploma
+209,CRS_2027,"PCM (Physics, Chemistry, Mathematics)",OC,184.3,12th
+210,CRS_2027,"PCM (Physics, Chemistry, Mathematics)",BC,180.94,12th
+211,CRS_2027,"PCM (Physics, Chemistry, Mathematics)",MBC,174.25,12th
+212,CRS_2027,"PCM (Physics, Chemistry, Mathematics)",SC/ST,152.81,12th
+213,CRS_2027,Relevant Diploma in Engineering / Technology,OC,95.8,Diploma
+214,CRS_2027,Relevant Diploma in Engineering / Technology,BC,93.46,Diploma
+215,CRS_2027,Relevant Diploma in Engineering / Technology,MBC,82.76,Diploma
+216,CRS_2027,Relevant Diploma in Engineering / Technology,SC/ST,76.5,Diploma
+217,CRS_2028,"PCM (Physics, Chemistry, Mathematics)",OC,185.86,12th
+218,CRS_2028,"PCM (Physics, Chemistry, Mathematics)",BC,180.45,12th
+219,CRS_2028,"PCM (Physics, Chemistry, Mathematics)",MBC,174.89,12th
+220,CRS_2028,"PCM (Physics, Chemistry, Mathematics)",SC/ST,163.3,12th
+221,CRS_2028,Relevant Diploma in Engineering / Technology,OC,93.32,Diploma
+222,CRS_2028,Relevant Diploma in Engineering / Technology,BC,89.44,Diploma
+223,CRS_2028,Relevant Diploma in Engineering / Technology,MBC,90.78,Diploma
+224,CRS_2028,Relevant Diploma in Engineering / Technology,SC/ST,80.59,Diploma
+225,CRS_2029,"PCM (Physics, Chemistry, Mathematics)",OC,187.12,12th
+226,CRS_2029,"PCM (Physics, Chemistry, Mathematics)",BC,183.41,12th
+227,CRS_2029,"PCM (Physics, Chemistry, Mathematics)",MBC,177.03,12th
+228,CRS_2029,"PCM (Physics, Chemistry, Mathematics)",SC/ST,155.33,12th
+229,CRS_2029,Relevant Diploma in Engineering / Technology,OC,90.76,Diploma
+230,CRS_2029,Relevant Diploma in Engineering / Technology,BC,93.32,Diploma
+231,CRS_2029,Relevant Diploma in Engineering / Technology,MBC,84.09,Diploma
+232,CRS_2029,Relevant Diploma in Engineering / Technology,SC/ST,83.51,Diploma
+233,CRS_2030,"PCM (Physics, Chemistry, Mathematics)",OC,190.75,12th
+234,CRS_2030,"PCM (Physics, Chemistry, Mathematics)",BC,187.57,12th
+235,CRS_2030,"PCM (Physics, Chemistry, Mathematics)",MBC,177.34,12th
+236,CRS_2030,"PCM (Physics, Chemistry, Mathematics)",SC/ST,166.66,12th
+237,CRS_2030,Relevant Diploma in Engineering / Technology,OC,92.59,Diploma
+238,CRS_2030,Relevant Diploma in Engineering / Technology,BC,97.08,Diploma
+239,CRS_2030,Relevant Diploma in Engineering / Technology,MBC,88.41,Diploma
+240,CRS_2030,Relevant Diploma in Engineering / Technology,SC/ST,83.58,Diploma
+241,CRS_2031,"PCM (Physics, Chemistry, Mathematics)",OC,186.29,12th
+242,CRS_2031,"PCM (Physics, Chemistry, Mathematics)",BC,183.23,12th
+243,CRS_2031,"PCM (Physics, Chemistry, Mathematics)",MBC,177.46,12th
+244,CRS_2031,"PCM (Physics, Chemistry, Mathematics)",SC/ST,159.16,12th
+245,CRS_2031,Relevant Diploma in Engineering / Technology,OC,88.84,Diploma
+246,CRS_2031,Relevant Diploma in Engineering / Technology,BC,90.52,Diploma
+247,CRS_2031,Relevant Diploma in Engineering / Technology,MBC,86.05,Diploma
+248,CRS_2031,Relevant Diploma in Engineering / Technology,SC/ST,75.53,Diploma
+249,CRS_2032,"PCM (Physics, Chemistry, Mathematics)",OC,188.33,12th
+250,CRS_2032,"PCM (Physics, Chemistry, Mathematics)",BC,184.45,12th
+251,CRS_2032,"PCM (Physics, Chemistry, Mathematics)",MBC,178.96,12th
+252,CRS_2032,"PCM (Physics, Chemistry, Mathematics)",SC/ST,156.52,12th
+253,CRS_2032,Relevant Diploma in Engineering / Technology,OC,90.57,Diploma
+254,CRS_2032,Relevant Diploma in Engineering / Technology,BC,91.71,Diploma
+255,CRS_2032,Relevant Diploma in Engineering / Technology,MBC,84.93,Diploma
+256,CRS_2032,Relevant Diploma in Engineering / Technology,SC/ST,79.69,Diploma
+257,CRS_2033,"PCM (Physics, Chemistry, Mathematics)",OC,190.51,12th
+258,CRS_2033,"PCM (Physics, Chemistry, Mathematics)",BC,187.3,12th
+259,CRS_2033,"PCM (Physics, Chemistry, Mathematics)",MBC,180.81,12th
+260,CRS_2033,"PCM (Physics, Chemistry, Mathematics)",SC/ST,161.63,12th
+261,CRS_2033,Relevant Diploma in Engineering / Technology,OC,90.93,Diploma
+262,CRS_2033,Relevant Diploma in Engineering / Technology,BC,91.07,Diploma
+263,CRS_2033,Relevant Diploma in Engineering / Technology,MBC,89.51,Diploma
+264,CRS_2033,Relevant Diploma in Engineering / Technology,SC/ST,87.14,Diploma
+265,CRS_2034,"PCM (Physics, Chemistry, Mathematics)",OC,187.1,12th
+266,CRS_2034,"PCM (Physics, Chemistry, Mathematics)",BC,183.64,12th
+267,CRS_2034,"PCM (Physics, Chemistry, Mathematics)",MBC,178.26,12th
+268,CRS_2034,"PCM (Physics, Chemistry, Mathematics)",SC/ST,168.89,12th
+269,CRS_2034,Relevant Diploma in Engineering / Technology,OC,93.01,Diploma
+270,CRS_2034,Relevant Diploma in Engineering / Technology,BC,93.67,Diploma
+271,CRS_2034,Relevant Diploma in Engineering / Technology,MBC,93.08,Diploma
+272,CRS_2034,Relevant Diploma in Engineering / Technology,SC/ST,80.36,Diploma
+273,CRS_2035,"PCM (Physics, Chemistry, Mathematics)",OC,186.57,12th
+274,CRS_2035,"PCM (Physics, Chemistry, Mathematics)",BC,181.43,12th
+275,CRS_2035,"PCM (Physics, Chemistry, Mathematics)",MBC,172.78,12th
+276,CRS_2035,"PCM (Physics, Chemistry, Mathematics)",SC/ST,166.89,12th
+277,CRS_2035,Relevant Diploma in Engineering / Technology,OC,96.74,Diploma
+278,CRS_2035,Relevant Diploma in Engineering / Technology,BC,95.32,Diploma
+279,CRS_2035,Relevant Diploma in Engineering / Technology,MBC,83.39,Diploma
+280,CRS_2035,Relevant Diploma in Engineering / Technology,SC/ST,82.04,Diploma
+281,CRS_2036,"PCM (Physics, Chemistry, Mathematics)",OC,189.18,12th
+282,CRS_2036,"PCM (Physics, Chemistry, Mathematics)",BC,185.96,12th
+283,CRS_2036,"PCM (Physics, Chemistry, Mathematics)",MBC,178.08,12th
+284,CRS_2036,"PCM (Physics, Chemistry, Mathematics)",SC/ST,167.64,12th
+285,CRS_2036,Relevant Diploma in Engineering / Technology,OC,91.69,Diploma
+286,CRS_2036,Relevant Diploma in Engineering / Technology,BC,89.72,Diploma
+287,CRS_2036,Relevant Diploma in Engineering / Technology,MBC,84.57,Diploma
+288,CRS_2036,Relevant Diploma in Engineering / Technology,SC/ST,77.48,Diploma
+289,CRS_2037,"PCM (Physics, Chemistry, Mathematics)",OC,187.81,12th
+290,CRS_2037,"PCM (Physics, Chemistry, Mathematics)",BC,184.17,12th
+291,CRS_2037,"PCM (Physics, Chemistry, Mathematics)",MBC,175.92,12th
+292,CRS_2037,"PCM (Physics, Chemistry, Mathematics)",SC/ST,170.59,12th
+293,CRS_2037,Relevant Diploma in Engineering / Technology,OC,94.72,Diploma
+294,CRS_2037,Relevant Diploma in Engineering / Technology,BC,92.89,Diploma
+295,CRS_2037,Relevant Diploma in Engineering / Technology,MBC,86.03,Diploma
+296,CRS_2037,Relevant Diploma in Engineering / Technology,SC/ST,82.12,Diploma
+297,CRS_2038,"PCM (Physics, Chemistry, Mathematics)",OC,187.16,12th
+298,CRS_2038,"PCM (Physics, Chemistry, Mathematics)",BC,181.98,12th
+299,CRS_2038,"PCM (Physics, Chemistry, Mathematics)",MBC,180.14,12th
+300,CRS_2038,"PCM (Physics, Chemistry, Mathematics)",SC/ST,167.54,12th
+301,CRS_2038,Relevant Diploma in Engineering / Technology,OC,89.79,Diploma
+302,CRS_2038,Relevant Diploma in Engineering / Technology,BC,91.19,Diploma
+303,CRS_2038,Relevant Diploma in Engineering / Technology,MBC,86.28,Diploma
+304,CRS_2038,Relevant Diploma in Engineering / Technology,SC/ST,82.62,Diploma
+305,CRS_2039,"PCM (Physics, Chemistry, Mathematics)",OC,187.31,12th
+306,CRS_2039,"PCM (Physics, Chemistry, Mathematics)",BC,184.19,12th
+307,CRS_2039,"PCM (Physics, Chemistry, Mathematics)",MBC,179.31,12th
+308,CRS_2039,"PCM (Physics, Chemistry, Mathematics)",SC/ST,159.64,12th
+309,CRS_2039,Relevant Diploma in Engineering / Technology,OC,90.4,Diploma
+310,CRS_2039,Relevant Diploma in Engineering / Technology,BC,88.7,Diploma
+311,CRS_2039,Relevant Diploma in Engineering / Technology,MBC,86.82,Diploma
+312,CRS_2039,Relevant Diploma in Engineering / Technology,SC/ST,78.91,Diploma
+313,CRS_2040,"PCM (Physics, Chemistry, Mathematics)",OC,198.74,12th
+314,CRS_2040,"PCM (Physics, Chemistry, Mathematics)",BC,194.82,12th
+315,CRS_2040,"PCM (Physics, Chemistry, Mathematics)",MBC,188.05,12th
+316,CRS_2040,"PCM (Physics, Chemistry, Mathematics)",SC/ST,176.38,12th
+317,CRS_2040,Relevant Diploma in Engineering / Technology,OC,100,Diploma
+318,CRS_2040,Relevant Diploma in Engineering / Technology,BC,97.02,Diploma
+319,CRS_2040,Relevant Diploma in Engineering / Technology,MBC,92.03,Diploma
+320,CRS_2040,Relevant Diploma in Engineering / Technology,SC/ST,80.41,Diploma
+321,CRS_2041,"PCM (Physics, Chemistry, Mathematics)",OC,197.05,12th
+322,CRS_2041,"PCM (Physics, Chemistry, Mathematics)",BC,192.86,12th
+323,CRS_2041,"PCM (Physics, Chemistry, Mathematics)",MBC,187.47,12th
+324,CRS_2041,"PCM (Physics, Chemistry, Mathematics)",SC/ST,172.26,12th
+325,CRS_2041,Relevant Diploma in Engineering / Technology,OC,100,Diploma
+326,CRS_2041,Relevant Diploma in Engineering / Technology,BC,99.17,Diploma
+327,CRS_2041,Relevant Diploma in Engineering / Technology,MBC,89.12,Diploma
+328,CRS_2041,Relevant Diploma in Engineering / Technology,SC/ST,90.29,Diploma
+329,CRS_2042,"PCM (Physics, Chemistry, Mathematics)",OC,187.17,12th
+330,CRS_2042,"PCM (Physics, Chemistry, Mathematics)",BC,182.38,12th
+331,CRS_2042,"PCM (Physics, Chemistry, Mathematics)",MBC,175.96,12th
+332,CRS_2042,"PCM (Physics, Chemistry, Mathematics)",SC/ST,158.12,12th
+333,CRS_2042,Relevant Diploma in Engineering / Technology,OC,90.64,Diploma
+334,CRS_2042,Relevant Diploma in Engineering / Technology,BC,95.93,Diploma
+335,CRS_2042,Relevant Diploma in Engineering / Technology,MBC,91.05,Diploma
+336,CRS_2042,Relevant Diploma in Engineering / Technology,SC/ST,83.81,Diploma
+337,CRS_2043,"PCM (Physics, Chemistry, Mathematics)",OC,174.42,12th
+338,CRS_2043,"PCM (Physics, Chemistry, Mathematics)",BC,169.13,12th
+339,CRS_2043,"PCM (Physics, Chemistry, Mathematics)",MBC,162.84,12th
+340,CRS_2043,"PCM (Physics, Chemistry, Mathematics)",SC/ST,151.64,12th
+341,CRS_2043,Relevant Diploma in Engineering / Technology,OC,88.27,Diploma
+342,CRS_2043,Relevant Diploma in Engineering / Technology,BC,89.07,Diploma
+343,CRS_2043,Relevant Diploma in Engineering / Technology,MBC,82.79,Diploma
+344,CRS_2043,Relevant Diploma in Engineering / Technology,SC/ST,73.01,Diploma
+345,CRS_2044,"PCM (Physics, Chemistry, Mathematics)",OC,174.39,12th
+346,CRS_2044,"PCM (Physics, Chemistry, Mathematics)",BC,170.37,12th
+347,CRS_2044,"PCM (Physics, Chemistry, Mathematics)",MBC,163.29,12th
+348,CRS_2044,"PCM (Physics, Chemistry, Mathematics)",SC/ST,148.09,12th
+349,CRS_2044,Relevant Diploma in Engineering / Technology,OC,86.24,Diploma
+350,CRS_2044,Relevant Diploma in Engineering / Technology,BC,84.42,Diploma
+351,CRS_2044,Relevant Diploma in Engineering / Technology,MBC,87.73,Diploma
+352,CRS_2044,Relevant Diploma in Engineering / Technology,SC/ST,71.51,Diploma
+353,CRS_2045,"PCM (Physics, Chemistry, Mathematics)",OC,184.15,12th
+354,CRS_2045,"PCM (Physics, Chemistry, Mathematics)",BC,178.86,12th
+355,CRS_2045,"PCM (Physics, Chemistry, Mathematics)",MBC,174.85,12th
+356,CRS_2045,"PCM (Physics, Chemistry, Mathematics)",SC/ST,157.61,12th
+357,CRS_2045,Relevant Diploma in Engineering / Technology,OC,96.76,Diploma
+358,CRS_2045,Relevant Diploma in Engineering / Technology,BC,86.53,Diploma
+359,CRS_2045,Relevant Diploma in Engineering / Technology,MBC,84.19,Diploma
+360,CRS_2045,Relevant Diploma in Engineering / Technology,SC/ST,85.16,Diploma
+361,CRS_2046,"PCM (Physics, Chemistry, Mathematics)",OC,181.14,12th
+362,CRS_2046,"PCM (Physics, Chemistry, Mathematics)",BC,177.19,12th
+363,CRS_2046,"PCM (Physics, Chemistry, Mathematics)",MBC,167.96,12th
+364,CRS_2046,"PCM (Physics, Chemistry, Mathematics)",SC/ST,151.58,12th
+365,CRS_2046,Relevant Diploma in Engineering / Technology,OC,93.87,Diploma
+366,CRS_2046,Relevant Diploma in Engineering / Technology,BC,83.45,Diploma
+367,CRS_2046,Relevant Diploma in Engineering / Technology,MBC,86.04,Diploma
+368,CRS_2046,Relevant Diploma in Engineering / Technology,SC/ST,82.56,Diploma
+369,CRS_2047,"PCM (Physics, Chemistry, Mathematics)",OC,179.52,12th
+370,CRS_2047,"PCM (Physics, Chemistry, Mathematics)",BC,175.5,12th
+371,CRS_2047,"PCM (Physics, Chemistry, Mathematics)",MBC,171.06,12th
+372,CRS_2047,"PCM (Physics, Chemistry, Mathematics)",SC/ST,154.28,12th
+373,CRS_2047,Relevant Diploma in Engineering / Technology,OC,85.53,Diploma
+374,CRS_2047,Relevant Diploma in Engineering / Technology,BC,92.02,Diploma
+375,CRS_2047,Relevant Diploma in Engineering / Technology,MBC,90.2,Diploma
+376,CRS_2047,Relevant Diploma in Engineering / Technology,SC/ST,76.69,Diploma
+377,CRS_2048,"PCM (Physics, Chemistry, Mathematics)",OC,173.75,12th
+378,CRS_2048,"PCM (Physics, Chemistry, Mathematics)",BC,169.37,12th
+379,CRS_2048,"PCM (Physics, Chemistry, Mathematics)",MBC,165.59,12th
+380,CRS_2048,"PCM (Physics, Chemistry, Mathematics)",SC/ST,156.93,12th
+381,CRS_2048,Relevant Diploma in Engineering / Technology,OC,89.37,Diploma
+382,CRS_2048,Relevant Diploma in Engineering / Technology,BC,87.11,Diploma
+383,CRS_2048,Relevant Diploma in Engineering / Technology,MBC,85.18,Diploma
+384,CRS_2048,Relevant Diploma in Engineering / Technology,SC/ST,76,Diploma
+385,CRS_2049,"PCM (Physics, Chemistry, Mathematics)",OC,175.59,12th
+386,CRS_2049,"PCM (Physics, Chemistry, Mathematics)",BC,171.21,12th
+387,CRS_2049,"PCM (Physics, Chemistry, Mathematics)",MBC,168.05,12th
+388,CRS_2049,"PCM (Physics, Chemistry, Mathematics)",SC/ST,156.26,12th
+389,CRS_2049,Relevant Diploma in Engineering / Technology,OC,90.39,Diploma
+390,CRS_2049,Relevant Diploma in Engineering / Technology,BC,86.34,Diploma
+391,CRS_2049,Relevant Diploma in Engineering / Technology,MBC,81.63,Diploma
+392,CRS_2049,Relevant Diploma in Engineering / Technology,SC/ST,68.13,Diploma
+393,CRS_2050,"PCM (Physics, Chemistry, Mathematics)",OC,173.89,12th
+394,CRS_2050,"PCM (Physics, Chemistry, Mathematics)",BC,169.98,12th
+395,CRS_2050,"PCM (Physics, Chemistry, Mathematics)",MBC,163.09,12th
+396,CRS_2050,"PCM (Physics, Chemistry, Mathematics)",SC/ST,147.47,12th
+397,CRS_2050,Relevant Diploma in Engineering / Technology,OC,83.15,Diploma
+398,CRS_2050,Relevant Diploma in Engineering / Technology,BC,87.34,Diploma
+399,CRS_2050,Relevant Diploma in Engineering / Technology,MBC,82.14,Diploma
+400,CRS_2050,Relevant Diploma in Engineering / Technology,SC/ST,75.72,Diploma
+401,CRS_2051,"PCM (Physics, Chemistry, Mathematics)",OC,184.68,12th
+402,CRS_2051,"PCM (Physics, Chemistry, Mathematics)",BC,179.4,12th
+403,CRS_2051,"PCM (Physics, Chemistry, Mathematics)",MBC,170.77,12th
+404,CRS_2051,"PCM (Physics, Chemistry, Mathematics)",SC/ST,166.11,12th
+405,CRS_2051,Relevant Diploma in Engineering / Technology,OC,96.54,Diploma
+406,CRS_2051,Relevant Diploma in Engineering / Technology,BC,86.34,Diploma
+407,CRS_2051,Relevant Diploma in Engineering / Technology,MBC,84.52,Diploma
+408,CRS_2051,Relevant Diploma in Engineering / Technology,SC/ST,82.33,Diploma
+409,CRS_2052,"PCM (Physics, Chemistry, Mathematics)",OC,178.6,12th
+410,CRS_2052,"PCM (Physics, Chemistry, Mathematics)",BC,172.98,12th
+411,CRS_2052,"PCM (Physics, Chemistry, Mathematics)",MBC,164.77,12th
+412,CRS_2052,"PCM (Physics, Chemistry, Mathematics)",SC/ST,157.73,12th
+413,CRS_2052,Relevant Diploma in Engineering / Technology,OC,89.17,Diploma
+414,CRS_2052,Relevant Diploma in Engineering / Technology,BC,85.22,Diploma
+415,CRS_2052,Relevant Diploma in Engineering / Technology,MBC,84.14,Diploma
+416,CRS_2052,Relevant Diploma in Engineering / Technology,SC/ST,74.41,Diploma
+417,CRS_2053,"PCM (Physics, Chemistry, Mathematics)",OC,178.23,12th
+418,CRS_2053,"PCM (Physics, Chemistry, Mathematics)",BC,174.79,12th
+419,CRS_2053,"PCM (Physics, Chemistry, Mathematics)",MBC,168.23,12th
+420,CRS_2053,"PCM (Physics, Chemistry, Mathematics)",SC/ST,153,12th
+421,CRS_2053,Relevant Diploma in Engineering / Technology,OC,88.99,Diploma
+422,CRS_2053,Relevant Diploma in Engineering / Technology,BC,90.96,Diploma
+423,CRS_2053,Relevant Diploma in Engineering / Technology,MBC,82.53,Diploma
+424,CRS_2053,Relevant Diploma in Engineering / Technology,SC/ST,75.5,Diploma
+425,CRS_2054,"PCM (Physics, Chemistry, Mathematics)",OC,177.11,12th
+426,CRS_2054,"PCM (Physics, Chemistry, Mathematics)",BC,173.04,12th
+427,CRS_2054,"PCM (Physics, Chemistry, Mathematics)",MBC,163.74,12th
+428,CRS_2054,"PCM (Physics, Chemistry, Mathematics)",SC/ST,154.06,12th
+429,CRS_2054,Relevant Diploma in Engineering / Technology,OC,83.96,Diploma
+430,CRS_2054,Relevant Diploma in Engineering / Technology,BC,90.9,Diploma
+431,CRS_2054,Relevant Diploma in Engineering / Technology,MBC,82.68,Diploma
+432,CRS_2054,Relevant Diploma in Engineering / Technology,SC/ST,80.06,Diploma
+433,CRS_2055,"PCM (Physics, Chemistry, Mathematics)",OC,177.59,12th
+434,CRS_2055,"PCM (Physics, Chemistry, Mathematics)",BC,172.01,12th
+435,CRS_2055,"PCM (Physics, Chemistry, Mathematics)",MBC,166.67,12th
+436,CRS_2055,"PCM (Physics, Chemistry, Mathematics)",SC/ST,155.44,12th
+437,CRS_2055,Relevant Diploma in Engineering / Technology,OC,83.91,Diploma
+438,CRS_2055,Relevant Diploma in Engineering / Technology,BC,87.93,Diploma
+439,CRS_2055,Relevant Diploma in Engineering / Technology,MBC,86.07,Diploma
+440,CRS_2055,Relevant Diploma in Engineering / Technology,SC/ST,77.15,Diploma
+441,CRS_2056,"PCM (Physics, Chemistry, Mathematics)",OC,181.45,12th
+442,CRS_2056,"PCM (Physics, Chemistry, Mathematics)",BC,176.03,12th
+443,CRS_2056,"PCM (Physics, Chemistry, Mathematics)",MBC,171.31,12th
+444,CRS_2056,"PCM (Physics, Chemistry, Mathematics)",SC/ST,159.95,12th
+445,CRS_2056,Relevant Diploma in Engineering / Technology,OC,92.63,Diploma
+446,CRS_2056,Relevant Diploma in Engineering / Technology,BC,84.19,Diploma
+447,CRS_2056,Relevant Diploma in Engineering / Technology,MBC,90.78,Diploma
+448,CRS_2056,Relevant Diploma in Engineering / Technology,SC/ST,77.4,Diploma
+449,CRS_2057,"PCM (Physics, Chemistry, Mathematics)",OC,176.58,12th
+450,CRS_2057,"PCM (Physics, Chemistry, Mathematics)",BC,173.17,12th
+451,CRS_2057,"PCM (Physics, Chemistry, Mathematics)",MBC,167.39,12th
+452,CRS_2057,"PCM (Physics, Chemistry, Mathematics)",SC/ST,147.47,12th
+453,CRS_2057,Relevant Diploma in Engineering / Technology,OC,83.94,Diploma
+454,CRS_2057,Relevant Diploma in Engineering / Technology,BC,88.42,Diploma
+455,CRS_2057,Relevant Diploma in Engineering / Technology,MBC,86.36,Diploma
+456,CRS_2057,Relevant Diploma in Engineering / Technology,SC/ST,82.32,Diploma
+457,CRS_2058,"PCM (Physics, Chemistry, Mathematics)",OC,175.79,12th
+458,CRS_2058,"PCM (Physics, Chemistry, Mathematics)",BC,170.57,12th
+459,CRS_2058,"PCM (Physics, Chemistry, Mathematics)",MBC,163.99,12th
+460,CRS_2058,"PCM (Physics, Chemistry, Mathematics)",SC/ST,145.88,12th
+461,CRS_2058,Relevant Diploma in Engineering / Technology,OC,85.92,Diploma
+462,CRS_2058,Relevant Diploma in Engineering / Technology,BC,87.76,Diploma
+463,CRS_2058,Relevant Diploma in Engineering / Technology,MBC,79.54,Diploma
+464,CRS_2058,Relevant Diploma in Engineering / Technology,SC/ST,72.66,Diploma
+465,CRS_2059,"PCM (Physics, Chemistry, Mathematics)",OC,169.91,12th
+466,CRS_2059,"PCM (Physics, Chemistry, Mathematics)",BC,164.24,12th
+467,CRS_2059,"PCM (Physics, Chemistry, Mathematics)",MBC,158.67,12th
+468,CRS_2059,"PCM (Physics, Chemistry, Mathematics)",SC/ST,138.36,12th
+469,CRS_2059,Relevant Diploma in Engineering / Technology,OC,87.45,Diploma
+470,CRS_2059,Relevant Diploma in Engineering / Technology,BC,83.25,Diploma
+471,CRS_2059,Relevant Diploma in Engineering / Technology,MBC,79.86,Diploma
+472,CRS_2059,Relevant Diploma in Engineering / Technology,SC/ST,72.61,Diploma
+473,CRS_2060,"PCM (Physics, Chemistry, Mathematics)",OC,169.69,12th
+474,CRS_2060,"PCM (Physics, Chemistry, Mathematics)",BC,164.68,12th
+475,CRS_2060,"PCM (Physics, Chemistry, Mathematics)",MBC,158.24,12th
+476,CRS_2060,"PCM (Physics, Chemistry, Mathematics)",SC/ST,138.67,12th
+477,CRS_2060,Relevant Diploma in Engineering / Technology,OC,82.31,Diploma
+478,CRS_2060,Relevant Diploma in Engineering / Technology,BC,85.17,Diploma
+479,CRS_2060,Relevant Diploma in Engineering / Technology,MBC,77.37,Diploma
+480,CRS_2060,Relevant Diploma in Engineering / Technology,SC/ST,71.36,Diploma
+481,CRS_2061,"PCM (Physics, Chemistry, Mathematics)",OC,167.37,12th
+482,CRS_2061,"PCM (Physics, Chemistry, Mathematics)",BC,164,12th
+483,CRS_2061,"PCM (Physics, Chemistry, Mathematics)",MBC,155.27,12th
+484,CRS_2061,"PCM (Physics, Chemistry, Mathematics)",SC/ST,141.82,12th
+485,CRS_2061,Relevant Diploma in Engineering / Technology,OC,81.28,Diploma
+486,CRS_2061,Relevant Diploma in Engineering / Technology,BC,85.76,Diploma
+487,CRS_2061,Relevant Diploma in Engineering / Technology,MBC,80.69,Diploma
+488,CRS_2061,Relevant Diploma in Engineering / Technology,SC/ST,73.02,Diploma
+489,CRS_2062,"PCM (Physics, Chemistry, Mathematics)",OC,168.78,12th
+490,CRS_2062,"PCM (Physics, Chemistry, Mathematics)",BC,164.26,12th
+491,CRS_2062,"PCM (Physics, Chemistry, Mathematics)",MBC,156.4,12th
+492,CRS_2062,"PCM (Physics, Chemistry, Mathematics)",SC/ST,139.5,12th
+493,CRS_2062,Relevant Diploma in Engineering / Technology,OC,87.52,Diploma
+494,CRS_2062,Relevant Diploma in Engineering / Technology,BC,86.66,Diploma
+495,CRS_2062,Relevant Diploma in Engineering / Technology,MBC,73.97,Diploma
+496,CRS_2062,Relevant Diploma in Engineering / Technology,SC/ST,71.01,Diploma
+497,CRS_2063,"PCM (Physics, Chemistry, Mathematics)",OC,173.34,12th
+498,CRS_2063,"PCM (Physics, Chemistry, Mathematics)",BC,169.85,12th
+499,CRS_2063,"PCM (Physics, Chemistry, Mathematics)",MBC,163.86,12th
+500,CRS_2063,"PCM (Physics, Chemistry, Mathematics)",SC/ST,149,12th
+501,CRS_2063,Relevant Diploma in Engineering / Technology,OC,88.59,Diploma
+502,CRS_2063,Relevant Diploma in Engineering / Technology,BC,83,Diploma
+503,CRS_2063,Relevant Diploma in Engineering / Technology,MBC,82.55,Diploma
+504,CRS_2063,Relevant Diploma in Engineering / Technology,SC/ST,76.04,Diploma
+505,CRS_2064,"PCM (Physics, Chemistry, Mathematics)",OC,168.06,12th
+506,CRS_2064,"PCM (Physics, Chemistry, Mathematics)",BC,164.8,12th
+507,CRS_2064,"PCM (Physics, Chemistry, Mathematics)",MBC,160.04,12th
+508,CRS_2064,"PCM (Physics, Chemistry, Mathematics)",SC/ST,137.94,12th
+509,CRS_2064,Relevant Diploma in Engineering / Technology,OC,84.45,Diploma
+510,CRS_2064,Relevant Diploma in Engineering / Technology,BC,85.65,Diploma
+511,CRS_2064,Relevant Diploma in Engineering / Technology,MBC,73.98,Diploma
+512,CRS_2064,Relevant Diploma in Engineering / Technology,SC/ST,70.81,Diploma
+513,CRS_2065,"PCM (Physics, Chemistry, Mathematics)",OC,176.98,12th
+514,CRS_2065,"PCM (Physics, Chemistry, Mathematics)",BC,171.09,12th
+515,CRS_2065,"PCM (Physics, Chemistry, Mathematics)",MBC,168.64,12th
+516,CRS_2065,"PCM (Physics, Chemistry, Mathematics)",SC/ST,153.93,12th
+517,CRS_2065,Relevant Diploma in Engineering / Technology,OC,87.66,Diploma
+518,CRS_2065,Relevant Diploma in Engineering / Technology,BC,90.17,Diploma
+519,CRS_2065,Relevant Diploma in Engineering / Technology,MBC,80.21,Diploma
+520,CRS_2065,Relevant Diploma in Engineering / Technology,SC/ST,79.34,Diploma
+521,CRS_2066,"PCM (Physics, Chemistry, Mathematics)",OC,171.34,12th
+522,CRS_2066,"PCM (Physics, Chemistry, Mathematics)",BC,166.85,12th
+523,CRS_2066,"PCM (Physics, Chemistry, Mathematics)",MBC,158.78,12th
+524,CRS_2066,"PCM (Physics, Chemistry, Mathematics)",SC/ST,146.57,12th
+525,CRS_2066,Relevant Diploma in Engineering / Technology,OC,86.6,Diploma
+526,CRS_2066,Relevant Diploma in Engineering / Technology,BC,86.56,Diploma
+527,CRS_2066,Relevant Diploma in Engineering / Technology,MBC,78.06,Diploma
+528,CRS_2066,Relevant Diploma in Engineering / Technology,SC/ST,69.11,Diploma
+529,CRS_2067,"PCM (Physics, Chemistry, Mathematics)",OC,176.69,12th
+530,CRS_2067,"PCM (Physics, Chemistry, Mathematics)",BC,172.04,12th
+531,CRS_2067,"PCM (Physics, Chemistry, Mathematics)",MBC,164.3,12th
+532,CRS_2067,"PCM (Physics, Chemistry, Mathematics)",SC/ST,151.16,12th
+533,CRS_2067,Relevant Diploma in Engineering / Technology,OC,91.04,Diploma
+534,CRS_2067,Relevant Diploma in Engineering / Technology,BC,83.37,Diploma
+535,CRS_2067,Relevant Diploma in Engineering / Technology,MBC,83.79,Diploma
+536,CRS_2067,Relevant Diploma in Engineering / Technology,SC/ST,73.4,Diploma
+537,CRS_2068,"PCM (Physics, Chemistry, Mathematics)",OC,167.41,12th
+538,CRS_2068,"PCM (Physics, Chemistry, Mathematics)",BC,163,12th
+539,CRS_2068,"PCM (Physics, Chemistry, Mathematics)",MBC,160.13,12th
+540,CRS_2068,"PCM (Physics, Chemistry, Mathematics)",SC/ST,136.18,12th
+541,CRS_2068,Relevant Diploma in Engineering / Technology,OC,86.4,Diploma
+542,CRS_2068,Relevant Diploma in Engineering / Technology,BC,79.97,Diploma
+543,CRS_2068,Relevant Diploma in Engineering / Technology,MBC,82.07,Diploma
+544,CRS_2068,Relevant Diploma in Engineering / Technology,SC/ST,63.43,Diploma
+545,CRS_2069,"PCM (Physics, Chemistry, Mathematics)",OC,169.5,12th
+546,CRS_2069,"PCM (Physics, Chemistry, Mathematics)",BC,164.07,12th
+547,CRS_2069,"PCM (Physics, Chemistry, Mathematics)",MBC,159.09,12th
+548,CRS_2069,"PCM (Physics, Chemistry, Mathematics)",SC/ST,152.78,12th
+549,CRS_2069,Relevant Diploma in Engineering / Technology,OC,80.2,Diploma
+550,CRS_2069,Relevant Diploma in Engineering / Technology,BC,83.01,Diploma
+551,CRS_2069,Relevant Diploma in Engineering / Technology,MBC,76.92,Diploma
+552,CRS_2069,Relevant Diploma in Engineering / Technology,SC/ST,70.59,Diploma
+553,CRS_2070,"PCM (Physics, Chemistry, Mathematics)",OC,168.99,12th
+554,CRS_2070,"PCM (Physics, Chemistry, Mathematics)",BC,163.08,12th
+555,CRS_2070,"PCM (Physics, Chemistry, Mathematics)",MBC,158.89,12th
+556,CRS_2070,"PCM (Physics, Chemistry, Mathematics)",SC/ST,138.28,12th
+557,CRS_2070,Relevant Diploma in Engineering / Technology,OC,87.81,Diploma
+558,CRS_2070,Relevant Diploma in Engineering / Technology,BC,79.13,Diploma
+559,CRS_2070,Relevant Diploma in Engineering / Technology,MBC,80.05,Diploma
+560,CRS_2070,Relevant Diploma in Engineering / Technology,SC/ST,69.79,Diploma
+561,CRS_2071,"PCM (Physics, Chemistry, Mathematics)",OC,159.07,12th
+562,CRS_2071,"PCM (Physics, Chemistry, Mathematics)",BC,154.28,12th
+563,CRS_2071,"PCM (Physics, Chemistry, Mathematics)",MBC,145.97,12th
+564,CRS_2071,"PCM (Physics, Chemistry, Mathematics)",SC/ST,136.26,12th
+565,CRS_2071,Relevant Diploma in Engineering / Technology,OC,74.76,Diploma
+566,CRS_2071,Relevant Diploma in Engineering / Technology,BC,78.21,Diploma
+567,CRS_2071,Relevant Diploma in Engineering / Technology,MBC,79.65,Diploma
+568,CRS_2071,Relevant Diploma in Engineering / Technology,SC/ST,72.08,Diploma
+569,CRS_2072,"PCM (Physics, Chemistry, Mathematics)",OC,163.24,12th
+570,CRS_2072,"PCM (Physics, Chemistry, Mathematics)",BC,157.43,12th
+571,CRS_2072,"PCM (Physics, Chemistry, Mathematics)",MBC,155.57,12th
+572,CRS_2072,"PCM (Physics, Chemistry, Mathematics)",SC/ST,145.86,12th
+573,CRS_2072,Relevant Diploma in Engineering / Technology,OC,81.78,Diploma
+574,CRS_2072,Relevant Diploma in Engineering / Technology,BC,82.26,Diploma
+575,CRS_2072,Relevant Diploma in Engineering / Technology,MBC,78.37,Diploma
+576,CRS_2072,Relevant Diploma in Engineering / Technology,SC/ST,77.44,Diploma
+577,CRS_2073,"PCM (Physics, Chemistry, Mathematics)",OC,161.51,12th
+578,CRS_2073,"PCM (Physics, Chemistry, Mathematics)",BC,157.98,12th
+579,CRS_2073,"PCM (Physics, Chemistry, Mathematics)",MBC,151.28,12th
+580,CRS_2073,"PCM (Physics, Chemistry, Mathematics)",SC/ST,141.45,12th
+581,CRS_2073,Relevant Diploma in Engineering / Technology,OC,83.08,Diploma
+582,CRS_2073,Relevant Diploma in Engineering / Technology,BC,81.48,Diploma
+583,CRS_2073,Relevant Diploma in Engineering / Technology,MBC,74.69,Diploma
+584,CRS_2073,Relevant Diploma in Engineering / Technology,SC/ST,73.58,Diploma
+585,CRS_2074,"PCM (Physics, Chemistry, Mathematics)",OC,152.46,12th
+586,CRS_2074,"PCM (Physics, Chemistry, Mathematics)",BC,148.66,12th
+587,CRS_2074,"PCM (Physics, Chemistry, Mathematics)",MBC,139.89,12th
+588,CRS_2074,"PCM (Physics, Chemistry, Mathematics)",SC/ST,120.61,12th
+589,CRS_2074,Relevant Diploma in Engineering / Technology,OC,80.86,Diploma
+590,CRS_2074,Relevant Diploma in Engineering / Technology,BC,77.85,Diploma
+591,CRS_2074,Relevant Diploma in Engineering / Technology,MBC,71.47,Diploma
+592,CRS_2074,Relevant Diploma in Engineering / Technology,SC/ST,62.01,Diploma
+593,CRS_2075,"PCM (Physics, Chemistry, Mathematics)",OC,146.24,12th
+594,CRS_2075,"PCM (Physics, Chemistry, Mathematics)",BC,140.94,12th
+595,CRS_2075,"PCM (Physics, Chemistry, Mathematics)",MBC,132.81,12th
+596,CRS_2075,"PCM (Physics, Chemistry, Mathematics)",SC/ST,118.13,12th
+597,CRS_2075,Relevant Diploma in Engineering / Technology,OC,78,Diploma
+598,CRS_2075,Relevant Diploma in Engineering / Technology,BC,73.13,Diploma
+599,CRS_2075,Relevant Diploma in Engineering / Technology,MBC,62.89,Diploma
+600,CRS_2075,Relevant Diploma in Engineering / Technology,SC/ST,63.49,Diploma
+601,CRS_2076,PCM / PCB (Biology),OC,180.91,12th
+602,CRS_2076,PCM / PCB (Biology),BC,176.45,12th
+603,CRS_2076,PCM / PCB (Biology),MBC,170.06,12th
+604,CRS_2076,PCM / PCB (Biology),SC/ST,149.71,12th
+605,CRS_2076,Relevant Diploma in Engineering / Technology,OC,94.66,Diploma
+606,CRS_2076,Relevant Diploma in Engineering / Technology,BC,85.08,Diploma
+607,CRS_2076,Relevant Diploma in Engineering / Technology,MBC,89.6,Diploma
+608,CRS_2076,Relevant Diploma in Engineering / Technology,SC/ST,72.63,Diploma
+609,CRS_2077,PCM / PCB (Biology),OC,176.63,12th
+610,CRS_2077,PCM / PCB (Biology),BC,171.03,12th
+611,CRS_2077,PCM / PCB (Biology),MBC,165.06,12th
+612,CRS_2077,PCM / PCB (Biology),SC/ST,145.78,12th
+613,CRS_2077,Relevant Diploma in Engineering / Technology,OC,90.75,Diploma
+614,CRS_2077,Relevant Diploma in Engineering / Technology,BC,85.56,Diploma
+615,CRS_2077,Relevant Diploma in Engineering / Technology,MBC,85.4,Diploma
+616,CRS_2077,Relevant Diploma in Engineering / Technology,SC/ST,70.67,Diploma
+617,CRS_2078,"PCM (Physics, Chemistry, Mathematics)",OC,165.35,12th
+618,CRS_2078,"PCM (Physics, Chemistry, Mathematics)",BC,161.63,12th
+619,CRS_2078,"PCM (Physics, Chemistry, Mathematics)",MBC,151.42,12th
+620,CRS_2078,"PCM (Physics, Chemistry, Mathematics)",SC/ST,135.01,12th
+621,CRS_2078,Relevant Diploma in Engineering / Technology,OC,86.84,Diploma
+622,CRS_2078,Relevant Diploma in Engineering / Technology,BC,82.34,Diploma
+623,CRS_2078,Relevant Diploma in Engineering / Technology,MBC,77.55,Diploma
+624,CRS_2078,Relevant Diploma in Engineering / Technology,SC/ST,72.89,Diploma
+625,CRS_2079,"PCM (Physics, Chemistry, Mathematics)",OC,166.07,12th
+626,CRS_2079,"PCM (Physics, Chemistry, Mathematics)",BC,160.73,12th
+627,CRS_2079,"PCM (Physics, Chemistry, Mathematics)",MBC,155.37,12th
+628,CRS_2079,"PCM (Physics, Chemistry, Mathematics)",SC/ST,150.07,12th
+629,CRS_2079,Relevant Diploma in Engineering / Technology,OC,80.59,Diploma
+630,CRS_2079,Relevant Diploma in Engineering / Technology,BC,76.99,Diploma
+631,CRS_2079,Relevant Diploma in Engineering / Technology,MBC,78.79,Diploma
+632,CRS_2079,Relevant Diploma in Engineering / Technology,SC/ST,71.02,Diploma
+633,CRS_2080,"PCM (Physics, Chemistry, Mathematics)",OC,164.77,12th
+634,CRS_2080,"PCM (Physics, Chemistry, Mathematics)",BC,161.55,12th
+635,CRS_2080,"PCM (Physics, Chemistry, Mathematics)",MBC,157.1,12th
+636,CRS_2080,"PCM (Physics, Chemistry, Mathematics)",SC/ST,146.4,12th
+637,CRS_2080,Relevant Diploma in Engineering / Technology,OC,84.7,Diploma
+638,CRS_2080,Relevant Diploma in Engineering / Technology,BC,83.55,Diploma
+639,CRS_2080,Relevant Diploma in Engineering / Technology,MBC,79.79,Diploma
+640,CRS_2080,Relevant Diploma in Engineering / Technology,SC/ST,66.95,Diploma
+641,CRS_2081,"PCM (Physics, Chemistry, Mathematics)",OC,170.07,12th
+642,CRS_2081,"PCM (Physics, Chemistry, Mathematics)",BC,166.29,12th
+643,CRS_2081,"PCM (Physics, Chemistry, Mathematics)",MBC,158.97,12th
+644,CRS_2081,"PCM (Physics, Chemistry, Mathematics)",SC/ST,141.41,12th
+645,CRS_2081,Relevant Diploma in Engineering / Technology,OC,83.54,Diploma
+646,CRS_2081,Relevant Diploma in Engineering / Technology,BC,86.82,Diploma
+647,CRS_2081,Relevant Diploma in Engineering / Technology,MBC,82.81,Diploma
+648,CRS_2081,Relevant Diploma in Engineering / Technology,SC/ST,69.8,Diploma
+649,CRS_2082,"PCM (Physics, Chemistry, Mathematics)",OC,174.17,12th
+650,CRS_2082,"PCM (Physics, Chemistry, Mathematics)",BC,170.91,12th
+651,CRS_2082,"PCM (Physics, Chemistry, Mathematics)",MBC,161.68,12th
+652,CRS_2082,"PCM (Physics, Chemistry, Mathematics)",SC/ST,142.9,12th
+653,CRS_2082,Relevant Diploma in Engineering / Technology,OC,90.7,Diploma
+654,CRS_2082,Relevant Diploma in Engineering / Technology,BC,87.46,Diploma
+655,CRS_2082,Relevant Diploma in Engineering / Technology,MBC,84.35,Diploma
+656,CRS_2082,Relevant Diploma in Engineering / Technology,SC/ST,75.64,Diploma
+657,CRS_2083,"PCM (Physics, Chemistry, Mathematics)",OC,165.41,12th
+658,CRS_2083,"PCM (Physics, Chemistry, Mathematics)",BC,160.66,12th
+659,CRS_2083,"PCM (Physics, Chemistry, Mathematics)",MBC,154.34,12th
+660,CRS_2083,"PCM (Physics, Chemistry, Mathematics)",SC/ST,134.35,12th
+661,CRS_2083,Relevant Diploma in Engineering / Technology,OC,85.29,Diploma
+662,CRS_2083,Relevant Diploma in Engineering / Technology,BC,74.95,Diploma
+663,CRS_2083,Relevant Diploma in Engineering / Technology,MBC,76.79,Diploma
+664,CRS_2083,Relevant Diploma in Engineering / Technology,SC/ST,69.5,Diploma
+665,CRS_2084,"PCM (Physics, Chemistry, Mathematics)",OC,173.83,12th
+666,CRS_2084,"PCM (Physics, Chemistry, Mathematics)",BC,169.44,12th
+667,CRS_2084,"PCM (Physics, Chemistry, Mathematics)",MBC,163.09,12th
+668,CRS_2084,"PCM (Physics, Chemistry, Mathematics)",SC/ST,144.52,12th
+669,CRS_2084,Relevant Diploma in Engineering / Technology,OC,87.04,Diploma
+670,CRS_2084,Relevant Diploma in Engineering / Technology,BC,89.95,Diploma
+671,CRS_2084,Relevant Diploma in Engineering / Technology,MBC,79.37,Diploma
+672,CRS_2084,Relevant Diploma in Engineering / Technology,SC/ST,76.53,Diploma
+673,CRS_2085,"PCM (Physics, Chemistry, Mathematics)",OC,173.46,12th
+674,CRS_2085,"PCM (Physics, Chemistry, Mathematics)",BC,169.12,12th
+675,CRS_2085,"PCM (Physics, Chemistry, Mathematics)",MBC,161.24,12th
+676,CRS_2085,"PCM (Physics, Chemistry, Mathematics)",SC/ST,143.72,12th
+677,CRS_2085,Relevant Diploma in Engineering / Technology,OC,82.03,Diploma
+678,CRS_2085,Relevant Diploma in Engineering / Technology,BC,87.39,Diploma
+679,CRS_2085,Relevant Diploma in Engineering / Technology,MBC,85.03,Diploma
+680,CRS_2085,Relevant Diploma in Engineering / Technology,SC/ST,73.99,Diploma
+681,CRS_2086,"PCM (Physics, Chemistry, Mathematics)",OC,162.39,12th
+682,CRS_2086,"PCM (Physics, Chemistry, Mathematics)",BC,159.07,12th
+683,CRS_2086,"PCM (Physics, Chemistry, Mathematics)",MBC,154.55,12th
+684,CRS_2086,"PCM (Physics, Chemistry, Mathematics)",SC/ST,136.68,12th
+685,CRS_2086,Relevant Diploma in Engineering / Technology,OC,85.8,Diploma
+686,CRS_2086,Relevant Diploma in Engineering / Technology,BC,82.54,Diploma
+687,CRS_2086,Relevant Diploma in Engineering / Technology,MBC,77.13,Diploma
+688,CRS_2086,Relevant Diploma in Engineering / Technology,SC/ST,75.6,Diploma
+689,CRS_2087,"PCM (Physics, Chemistry, Mathematics)",OC,164.46,12th
+690,CRS_2087,"PCM (Physics, Chemistry, Mathematics)",BC,160.01,12th
+691,CRS_2087,"PCM (Physics, Chemistry, Mathematics)",MBC,155.13,12th
+692,CRS_2087,"PCM (Physics, Chemistry, Mathematics)",SC/ST,146.63,12th
+693,CRS_2087,Relevant Diploma in Engineering / Technology,OC,79.84,Diploma
+694,CRS_2087,Relevant Diploma in Engineering / Technology,BC,78.49,Diploma
+695,CRS_2087,Relevant Diploma in Engineering / Technology,MBC,72.66,Diploma
+696,CRS_2087,Relevant Diploma in Engineering / Technology,SC/ST,74.47,Diploma
+697,CRS_2088,"PCM (Physics, Chemistry, Mathematics)",OC,168.38,12th
+698,CRS_2088,"PCM (Physics, Chemistry, Mathematics)",BC,164.89,12th
+699,CRS_2088,"PCM (Physics, Chemistry, Mathematics)",MBC,155.52,12th
+700,CRS_2088,"PCM (Physics, Chemistry, Mathematics)",SC/ST,140.88,12th
+701,CRS_2088,Relevant Diploma in Engineering / Technology,OC,79.89,Diploma
+702,CRS_2088,Relevant Diploma in Engineering / Technology,BC,80.69,Diploma
+703,CRS_2088,Relevant Diploma in Engineering / Technology,MBC,80.39,Diploma
+704,CRS_2088,Relevant Diploma in Engineering / Technology,SC/ST,75.01,Diploma
+705,CRS_2089,"PCM (Physics, Chemistry, Mathematics)",OC,163.01,12th
+706,CRS_2089,"PCM (Physics, Chemistry, Mathematics)",BC,159.33,12th
+707,CRS_2089,"PCM (Physics, Chemistry, Mathematics)",MBC,149.28,12th
+708,CRS_2089,"PCM (Physics, Chemistry, Mathematics)",SC/ST,137.07,12th
+709,CRS_2089,Relevant Diploma in Engineering / Technology,OC,86.38,Diploma
+710,CRS_2089,Relevant Diploma in Engineering / Technology,BC,78.16,Diploma
+711,CRS_2089,Relevant Diploma in Engineering / Technology,MBC,77.6,Diploma
+712,CRS_2089,Relevant Diploma in Engineering / Technology,SC/ST,66.38,Diploma
+713,CRS_2090,"PCM (Physics, Chemistry, Mathematics)",OC,169.71,12th
+714,CRS_2090,"PCM (Physics, Chemistry, Mathematics)",BC,165.73,12th
+715,CRS_2090,"PCM (Physics, Chemistry, Mathematics)",MBC,158.33,12th
+716,CRS_2090,"PCM (Physics, Chemistry, Mathematics)",SC/ST,148.34,12th
+717,CRS_2090,Relevant Diploma in Engineering / Technology,OC,80.76,Diploma
+718,CRS_2090,Relevant Diploma in Engineering / Technology,BC,80.45,Diploma
+719,CRS_2090,Relevant Diploma in Engineering / Technology,MBC,78.29,Diploma
+720,CRS_2090,Relevant Diploma in Engineering / Technology,SC/ST,71.79,Diploma
+721,CRS_2091,"PCM (Physics, Chemistry, Mathematics)",OC,166.14,12th
+722,CRS_2091,"PCM (Physics, Chemistry, Mathematics)",BC,161.27,12th
+723,CRS_2091,"PCM (Physics, Chemistry, Mathematics)",MBC,156.64,12th
+724,CRS_2091,"PCM (Physics, Chemistry, Mathematics)",SC/ST,145.2,12th
+725,CRS_2091,Relevant Diploma in Engineering / Technology,OC,83.23,Diploma
+726,CRS_2091,Relevant Diploma in Engineering / Technology,BC,75.23,Diploma
+727,CRS_2091,Relevant Diploma in Engineering / Technology,MBC,74.17,Diploma
+728,CRS_2091,Relevant Diploma in Engineering / Technology,SC/ST,70.23,Diploma
+729,CRS_2092,PCM / PCB (Biology),OC,179.82,12th
+730,CRS_2092,PCM / PCB (Biology),BC,173.94,12th
+731,CRS_2092,PCM / PCB (Biology),MBC,167.59,12th
+732,CRS_2092,PCM / PCB (Biology),SC/ST,160.16,12th
+733,CRS_2092,Relevant Diploma in Engineering / Technology,OC,86.99,Diploma
+734,CRS_2092,Relevant Diploma in Engineering / Technology,BC,91.45,Diploma
+735,CRS_2092,Relevant Diploma in Engineering / Technology,MBC,82.39,Diploma
+736,CRS_2092,Relevant Diploma in Engineering / Technology,SC/ST,78.27,Diploma
+737,CRS_2093,PCM / PCB (Biology),OC,186.37,12th
+738,CRS_2093,PCM / PCB (Biology),BC,181.36,12th
+739,CRS_2093,PCM / PCB (Biology),MBC,174.75,12th
+740,CRS_2093,PCM / PCB (Biology),SC/ST,169.4,12th
+741,CRS_2093,Relevant Diploma in Engineering / Technology,OC,89.83,Diploma
+742,CRS_2093,Relevant Diploma in Engineering / Technology,BC,88.72,Diploma
+743,CRS_2093,Relevant Diploma in Engineering / Technology,MBC,86.89,Diploma
+744,CRS_2093,Relevant Diploma in Engineering / Technology,SC/ST,77.08,Diploma
+745,CRS_2094,"PCM (Physics, Chemistry, Mathematics)",OC,176.19,12th
+746,CRS_2094,"PCM (Physics, Chemistry, Mathematics)",BC,173.02,12th
+747,CRS_2094,"PCM (Physics, Chemistry, Mathematics)",MBC,166.03,12th
+748,CRS_2094,"PCM (Physics, Chemistry, Mathematics)",SC/ST,151.13,12th
+749,CRS_2094,Relevant Diploma in Engineering / Technology,OC,88.24,Diploma
+750,CRS_2094,Relevant Diploma in Engineering / Technology,BC,85.03,Diploma
+751,CRS_2094,Relevant Diploma in Engineering / Technology,MBC,87.35,Diploma
+752,CRS_2094,Relevant Diploma in Engineering / Technology,SC/ST,81.56,Diploma
+753,CRS_2095,"PCM (Physics, Chemistry, Mathematics)",OC,176.75,12th
+754,CRS_2095,"PCM (Physics, Chemistry, Mathematics)",BC,173.31,12th
+755,CRS_2095,"PCM (Physics, Chemistry, Mathematics)",MBC,165.5,12th
+756,CRS_2095,"PCM (Physics, Chemistry, Mathematics)",SC/ST,147.94,12th
+757,CRS_2095,Relevant Diploma in Engineering / Technology,OC,93.18,Diploma
+758,CRS_2095,Relevant Diploma in Engineering / Technology,BC,87.15,Diploma
+759,CRS_2095,Relevant Diploma in Engineering / Technology,MBC,81.28,Diploma
+760,CRS_2095,Relevant Diploma in Engineering / Technology,SC/ST,76.19,Diploma
+761,CRS_2096,"PCM (Physics, Chemistry, Mathematics)",OC,173.21,12th
+762,CRS_2096,"PCM (Physics, Chemistry, Mathematics)",BC,167.49,12th
+763,CRS_2096,"PCM (Physics, Chemistry, Mathematics)",MBC,159.27,12th
+764,CRS_2096,"PCM (Physics, Chemistry, Mathematics)",SC/ST,152.62,12th
+765,CRS_2096,Relevant Diploma in Engineering / Technology,OC,83.06,Diploma
+766,CRS_2096,Relevant Diploma in Engineering / Technology,BC,84.9,Diploma
+767,CRS_2096,Relevant Diploma in Engineering / Technology,MBC,82.63,Diploma
+768,CRS_2096,Relevant Diploma in Engineering / Technology,SC/ST,73.16,Diploma
+769,CRS_2097,"PCM (Physics, Chemistry, Mathematics)",OC,175.09,12th
+770,CRS_2097,"PCM (Physics, Chemistry, Mathematics)",BC,171.98,12th
+771,CRS_2097,"PCM (Physics, Chemistry, Mathematics)",MBC,167.09,12th
+772,CRS_2097,"PCM (Physics, Chemistry, Mathematics)",SC/ST,144.27,12th
+773,CRS_2097,Relevant Diploma in Engineering / Technology,OC,86.95,Diploma
+774,CRS_2097,Relevant Diploma in Engineering / Technology,BC,84.15,Diploma
+775,CRS_2097,Relevant Diploma in Engineering / Technology,MBC,80.4,Diploma
+776,CRS_2097,Relevant Diploma in Engineering / Technology,SC/ST,72.28,Diploma
+777,CRS_2098,"PCM (Physics, Chemistry, Mathematics)",OC,172.26,12th
+778,CRS_2098,"PCM (Physics, Chemistry, Mathematics)",BC,168.02,12th
+779,CRS_2098,"PCM (Physics, Chemistry, Mathematics)",MBC,160.55,12th
+780,CRS_2098,"PCM (Physics, Chemistry, Mathematics)",SC/ST,143.8,12th
+781,CRS_2098,Relevant Diploma in Engineering / Technology,OC,85.98,Diploma
+782,CRS_2098,Relevant Diploma in Engineering / Technology,BC,83.9,Diploma
+783,CRS_2098,Relevant Diploma in Engineering / Technology,MBC,85.09,Diploma
+784,CRS_2098,Relevant Diploma in Engineering / Technology,SC/ST,75.23,Diploma
+785,CRS_2099,"PCM (Physics, Chemistry, Mathematics)",OC,170.27,12th
+786,CRS_2099,"PCM (Physics, Chemistry, Mathematics)",BC,165.92,12th
+787,CRS_2099,"PCM (Physics, Chemistry, Mathematics)",MBC,163.16,12th
+788,CRS_2099,"PCM (Physics, Chemistry, Mathematics)",SC/ST,152.55,12th
+789,CRS_2099,Relevant Diploma in Engineering / Technology,OC,81.52,Diploma
+790,CRS_2099,Relevant Diploma in Engineering / Technology,BC,86.35,Diploma
+791,CRS_2099,Relevant Diploma in Engineering / Technology,MBC,74.85,Diploma
+792,CRS_2099,Relevant Diploma in Engineering / Technology,SC/ST,66.41,Diploma
+793,CRS_2100,"PCM (Physics, Chemistry, Mathematics)",OC,179.23,12th
+794,CRS_2100,"PCM (Physics, Chemistry, Mathematics)",BC,174.3,12th
+795,CRS_2100,"PCM (Physics, Chemistry, Mathematics)",MBC,166.36,12th
+796,CRS_2100,"PCM (Physics, Chemistry, Mathematics)",SC/ST,154.11,12th
+797,CRS_2100,Relevant Diploma in Engineering / Technology,OC,87.87,Diploma
+798,CRS_2100,Relevant Diploma in Engineering / Technology,BC,84.08,Diploma
+799,CRS_2100,Relevant Diploma in Engineering / Technology,MBC,85.8,Diploma
+800,CRS_2100,Relevant Diploma in Engineering / Technology,SC/ST,76.74,Diploma
+801,CRS_2101,"PCM (Physics, Chemistry, Mathematics)",OC,178.1,12th
+802,CRS_2101,"PCM (Physics, Chemistry, Mathematics)",BC,174.4,12th
+803,CRS_2101,"PCM (Physics, Chemistry, Mathematics)",MBC,167.14,12th
+804,CRS_2101,"PCM (Physics, Chemistry, Mathematics)",SC/ST,151.24,12th
+805,CRS_2101,Relevant Diploma in Engineering / Technology,OC,84.07,Diploma
+806,CRS_2101,Relevant Diploma in Engineering / Technology,BC,84.36,Diploma
+807,CRS_2101,Relevant Diploma in Engineering / Technology,MBC,77.79,Diploma
+808,CRS_2101,Relevant Diploma in Engineering / Technology,SC/ST,75.77,Diploma
+809,CRS_2102,"PCM (Physics, Chemistry, Mathematics)",OC,178.53,12th
+810,CRS_2102,"PCM (Physics, Chemistry, Mathematics)",BC,174.7,12th
+811,CRS_2102,"PCM (Physics, Chemistry, Mathematics)",MBC,170.43,12th
+812,CRS_2102,"PCM (Physics, Chemistry, Mathematics)",SC/ST,158.87,12th
+813,CRS_2102,Relevant Diploma in Engineering / Technology,OC,89.06,Diploma
+814,CRS_2102,Relevant Diploma in Engineering / Technology,BC,86.19,Diploma
+815,CRS_2102,Relevant Diploma in Engineering / Technology,MBC,85.53,Diploma
+816,CRS_2102,Relevant Diploma in Engineering / Technology,SC/ST,75.77,Diploma
+817,CRS_2103,"PCM (Physics, Chemistry, Mathematics)",OC,174.71,12th
+818,CRS_2103,"PCM (Physics, Chemistry, Mathematics)",BC,169.01,12th
+819,CRS_2103,"PCM (Physics, Chemistry, Mathematics)",MBC,166.45,12th
+820,CRS_2103,"PCM (Physics, Chemistry, Mathematics)",SC/ST,155.57,12th
+821,CRS_2103,Relevant Diploma in Engineering / Technology,OC,83.21,Diploma
+822,CRS_2103,Relevant Diploma in Engineering / Technology,BC,86.31,Diploma
+823,CRS_2103,Relevant Diploma in Engineering / Technology,MBC,82.71,Diploma
+824,CRS_2103,Relevant Diploma in Engineering / Technology,SC/ST,78.54,Diploma
+825,CRS_2104,"PCM (Physics, Chemistry, Mathematics)",OC,168.64,12th
+826,CRS_2104,"PCM (Physics, Chemistry, Mathematics)",BC,162.76,12th
+827,CRS_2104,"PCM (Physics, Chemistry, Mathematics)",MBC,156.24,12th
+828,CRS_2104,"PCM (Physics, Chemistry, Mathematics)",SC/ST,143.14,12th
+829,CRS_2104,Relevant Diploma in Engineering / Technology,OC,79.71,Diploma
+830,CRS_2104,Relevant Diploma in Engineering / Technology,BC,86.5,Diploma
+831,CRS_2104,Relevant Diploma in Engineering / Technology,MBC,78.97,Diploma
+832,CRS_2104,Relevant Diploma in Engineering / Technology,SC/ST,64.81,Diploma
+833,CRS_2105,"PCM (Physics, Chemistry, Mathematics)",OC,168.21,12th
+834,CRS_2105,"PCM (Physics, Chemistry, Mathematics)",BC,165.08,12th
+835,CRS_2105,"PCM (Physics, Chemistry, Mathematics)",MBC,155.78,12th
+836,CRS_2105,"PCM (Physics, Chemistry, Mathematics)",SC/ST,137.23,12th
+837,CRS_2105,Relevant Diploma in Engineering / Technology,OC,85.38,Diploma
+838,CRS_2105,Relevant Diploma in Engineering / Technology,BC,81.27,Diploma
+839,CRS_2105,Relevant Diploma in Engineering / Technology,MBC,77.06,Diploma
+840,CRS_2105,Relevant Diploma in Engineering / Technology,SC/ST,74.54,Diploma
+841,CRS_2106,"PCM (Physics, Chemistry, Mathematics)",OC,175.31,12th
+842,CRS_2106,"PCM (Physics, Chemistry, Mathematics)",BC,171.49,12th
+843,CRS_2106,"PCM (Physics, Chemistry, Mathematics)",MBC,166.55,12th
+844,CRS_2106,"PCM (Physics, Chemistry, Mathematics)",SC/ST,146.67,12th
+845,CRS_2106,Relevant Diploma in Engineering / Technology,OC,90.68,Diploma
+846,CRS_2106,Relevant Diploma in Engineering / Technology,BC,82.62,Diploma
+847,CRS_2106,Relevant Diploma in Engineering / Technology,MBC,84.47,Diploma
+848,CRS_2106,Relevant Diploma in Engineering / Technology,SC/ST,79.52,Diploma
+849,CRS_2107,"PCM (Physics, Chemistry, Mathematics)",OC,175.72,12th
+850,CRS_2107,"PCM (Physics, Chemistry, Mathematics)",BC,169.77,12th
+851,CRS_2107,"PCM (Physics, Chemistry, Mathematics)",MBC,165.6,12th
+852,CRS_2107,"PCM (Physics, Chemistry, Mathematics)",SC/ST,145.42,12th
+853,CRS_2107,Relevant Diploma in Engineering / Technology,OC,84.89,Diploma
+854,CRS_2107,Relevant Diploma in Engineering / Technology,BC,85.53,Diploma
+855,CRS_2107,Relevant Diploma in Engineering / Technology,MBC,79.71,Diploma
+856,CRS_2107,Relevant Diploma in Engineering / Technology,SC/ST,81.04,Diploma
+857,CRS_2108,PCM / Agriculture Stream,OC,162.18,12th
+858,CRS_2108,PCM / Agriculture Stream,BC,158.18,12th
+859,CRS_2108,PCM / Agriculture Stream,MBC,150.54,12th
+860,CRS_2108,PCM / Agriculture Stream,SC/ST,139.19,12th
+861,CRS_2108,Relevant Diploma in Engineering / Technology,OC,80.24,Diploma
+862,CRS_2108,Relevant Diploma in Engineering / Technology,BC,79.55,Diploma
+863,CRS_2108,Relevant Diploma in Engineering / Technology,MBC,79.54,Diploma
+864,CRS_2108,Relevant Diploma in Engineering / Technology,SC/ST,71.91,Diploma
+865,CRS_2109,PCM / Agriculture Stream,OC,167.64,12th
+866,CRS_2109,PCM / Agriculture Stream,BC,163.79,12th
+867,CRS_2109,PCM / Agriculture Stream,MBC,158.71,12th
+868,CRS_2109,PCM / Agriculture Stream,SC/ST,142.37,12th
+869,CRS_2109,Relevant Diploma in Engineering / Technology,OC,86.45,Diploma
+870,CRS_2109,Relevant Diploma in Engineering / Technology,BC,78.92,Diploma
+871,CRS_2109,Relevant Diploma in Engineering / Technology,MBC,81.31,Diploma
+872,CRS_2109,Relevant Diploma in Engineering / Technology,SC/ST,71.04,Diploma
+873,CRS_2110,PCM / Agriculture Stream,OC,163.89,12th
+874,CRS_2110,PCM / Agriculture Stream,BC,159.15,12th
+875,CRS_2110,PCM / Agriculture Stream,MBC,150.04,12th
+876,CRS_2110,PCM / Agriculture Stream,SC/ST,139.49,12th
+877,CRS_2110,Relevant Diploma in Engineering / Technology,OC,83.09,Diploma
+878,CRS_2110,Relevant Diploma in Engineering / Technology,BC,78.82,Diploma
+879,CRS_2110,Relevant Diploma in Engineering / Technology,MBC,75.26,Diploma
+880,CRS_2110,Relevant Diploma in Engineering / Technology,SC/ST,62,Diploma
+881,CRS_2111,PCM / Agriculture Stream,OC,162.55,12th
+882,CRS_2111,PCM / Agriculture Stream,BC,158.53,12th
+883,CRS_2111,PCM / Agriculture Stream,MBC,150.36,12th
+884,CRS_2111,PCM / Agriculture Stream,SC/ST,135.67,12th
+885,CRS_2111,Relevant Diploma in Engineering / Technology,OC,85.1,Diploma
+886,CRS_2111,Relevant Diploma in Engineering / Technology,BC,82.77,Diploma
+887,CRS_2111,Relevant Diploma in Engineering / Technology,MBC,73.56,Diploma
+888,CRS_2111,Relevant Diploma in Engineering / Technology,SC/ST,69.2,Diploma
+889,CRS_2112,PCM / Agriculture Stream,OC,168.08,12th
+890,CRS_2112,PCM / Agriculture Stream,BC,162.68,12th
+891,CRS_2112,PCM / Agriculture Stream,MBC,157.29,12th
+892,CRS_2112,PCM / Agriculture Stream,SC/ST,146.78,12th
+893,CRS_2112,Relevant Diploma in Engineering / Technology,OC,82.86,Diploma
+894,CRS_2112,Relevant Diploma in Engineering / Technology,BC,83.62,Diploma
+895,CRS_2112,Relevant Diploma in Engineering / Technology,MBC,76.09,Diploma
+896,CRS_2112,Relevant Diploma in Engineering / Technology,SC/ST,67.56,Diploma
+897,CRS_2113,PCM / Agriculture Stream,OC,162.82,12th
+898,CRS_2113,PCM / Agriculture Stream,BC,157.33,12th
+899,CRS_2113,PCM / Agriculture Stream,MBC,154.55,12th
+900,CRS_2113,PCM / Agriculture Stream,SC/ST,133.41,12th
+901,CRS_2113,Relevant Diploma in Engineering / Technology,OC,79.71,Diploma
+902,CRS_2113,Relevant Diploma in Engineering / Technology,BC,77.72,Diploma
+903,CRS_2113,Relevant Diploma in Engineering / Technology,MBC,74.36,Diploma
+904,CRS_2113,Relevant Diploma in Engineering / Technology,SC/ST,66.65,Diploma
+905,CRS_2114,PCM / Agriculture Stream,OC,157.49,12th
+906,CRS_2114,PCM / Agriculture Stream,BC,154.32,12th
+907,CRS_2114,PCM / Agriculture Stream,MBC,146.89,12th
+908,CRS_2114,PCM / Agriculture Stream,SC/ST,127.67,12th
+909,CRS_2114,Relevant Diploma in Engineering / Technology,OC,74.65,Diploma
+910,CRS_2114,Relevant Diploma in Engineering / Technology,BC,71.27,Diploma
+911,CRS_2114,Relevant Diploma in Engineering / Technology,MBC,79.35,Diploma
+912,CRS_2114,Relevant Diploma in Engineering / Technology,SC/ST,70.3,Diploma
+913,CRS_2115,PCM / Agriculture Stream,OC,166.43,12th
+914,CRS_2115,PCM / Agriculture Stream,BC,161.46,12th
+915,CRS_2115,PCM / Agriculture Stream,MBC,159.29,12th
+916,CRS_2115,PCM / Agriculture Stream,SC/ST,148.25,12th
+917,CRS_2115,Relevant Diploma in Engineering / Technology,OC,78.53,Diploma
+918,CRS_2115,Relevant Diploma in Engineering / Technology,BC,77.58,Diploma
+919,CRS_2115,Relevant Diploma in Engineering / Technology,MBC,79.06,Diploma
+920,CRS_2115,Relevant Diploma in Engineering / Technology,SC/ST,70.91,Diploma
+921,CRS_2116,PCM / Agriculture Stream,OC,157.76,12th
+922,CRS_2116,PCM / Agriculture Stream,BC,154.02,12th
+923,CRS_2116,PCM / Agriculture Stream,MBC,144.81,12th
+924,CRS_2116,PCM / Agriculture Stream,SC/ST,141.67,12th
+925,CRS_2116,Relevant Diploma in Engineering / Technology,OC,73.94,Diploma
+926,CRS_2116,Relevant Diploma in Engineering / Technology,BC,78.09,Diploma
+927,CRS_2116,Relevant Diploma in Engineering / Technology,MBC,70.04,Diploma
+928,CRS_2116,Relevant Diploma in Engineering / Technology,SC/ST,64.36,Diploma
+929,CRS_2117,PCM / Agriculture Stream,OC,161.96,12th
+930,CRS_2117,PCM / Agriculture Stream,BC,156.65,12th
+931,CRS_2117,PCM / Agriculture Stream,MBC,152.45,12th
+932,CRS_2117,PCM / Agriculture Stream,SC/ST,137.02,12th
+933,CRS_2117,Relevant Diploma in Engineering / Technology,OC,83.11,Diploma
+934,CRS_2117,Relevant Diploma in Engineering / Technology,BC,73.8,Diploma
+935,CRS_2117,Relevant Diploma in Engineering / Technology,MBC,76.51,Diploma
+936,CRS_2117,Relevant Diploma in Engineering / Technology,SC/ST,69.57,Diploma
+937,CRS_2118,PCM / Agriculture Stream,OC,161.16,12th
+938,CRS_2118,PCM / Agriculture Stream,BC,155.41,12th
+939,CRS_2118,PCM / Agriculture Stream,MBC,148.49,12th
+940,CRS_2118,PCM / Agriculture Stream,SC/ST,139.4,12th
+941,CRS_2118,Relevant Diploma in Engineering / Technology,OC,79.84,Diploma
+942,CRS_2118,Relevant Diploma in Engineering / Technology,BC,75.77,Diploma
+943,CRS_2118,Relevant Diploma in Engineering / Technology,MBC,71.96,Diploma
+944,CRS_2118,Relevant Diploma in Engineering / Technology,SC/ST,70.31,Diploma
+945,CRS_2119,PCM / Agriculture Stream,OC,160.18,12th
+946,CRS_2119,PCM / Agriculture Stream,BC,155.24,12th
+947,CRS_2119,PCM / Agriculture Stream,MBC,149.36,12th
+948,CRS_2119,PCM / Agriculture Stream,SC/ST,135.91,12th
+949,CRS_2119,Relevant Diploma in Engineering / Technology,OC,78.29,Diploma
+950,CRS_2119,Relevant Diploma in Engineering / Technology,BC,72.81,Diploma
+951,CRS_2119,Relevant Diploma in Engineering / Technology,MBC,79.46,Diploma
+952,CRS_2119,Relevant Diploma in Engineering / Technology,SC/ST,65.48,Diploma
+953,CRS_2120,PCM / Agriculture Stream,OC,168.42,12th
+954,CRS_2120,PCM / Agriculture Stream,BC,164.22,12th
+955,CRS_2120,PCM / Agriculture Stream,MBC,159.08,12th
+956,CRS_2120,PCM / Agriculture Stream,SC/ST,138.73,12th
+957,CRS_2120,Relevant Diploma in Engineering / Technology,OC,87.99,Diploma
+958,CRS_2120,Relevant Diploma in Engineering / Technology,BC,81.12,Diploma
+959,CRS_2120,Relevant Diploma in Engineering / Technology,MBC,79.08,Diploma
+960,CRS_2120,Relevant Diploma in Engineering / Technology,SC/ST,72.66,Diploma
+961,CRS_2121,PCM / Agriculture Stream,OC,157.72,12th
+962,CRS_2121,PCM / Agriculture Stream,BC,153.64,12th
+963,CRS_2121,PCM / Agriculture Stream,MBC,146.78,12th
+964,CRS_2121,PCM / Agriculture Stream,SC/ST,126.09,12th
+965,CRS_2121,Relevant Diploma in Engineering / Technology,OC,75.29,Diploma
+966,CRS_2121,Relevant Diploma in Engineering / Technology,BC,75.07,Diploma
+967,CRS_2121,Relevant Diploma in Engineering / Technology,MBC,77.23,Diploma
+968,CRS_2121,Relevant Diploma in Engineering / Technology,SC/ST,58.95,Diploma
+969,CRS_2122,Any Stream with Mathematics/CS,OC,138.3,12th
+970,CRS_2122,Any Stream with Mathematics/CS,BC,133.02,12th
+971,CRS_2122,Any Stream with Mathematics/CS,MBC,125.94,12th
+972,CRS_2122,Any Stream with Mathematics/CS,SC/ST,115.44,12th
+973,CRS_2123,Any Stream with Mathematics/CS,OC,138,12th
+974,CRS_2123,Any Stream with Mathematics/CS,BC,132.25,12th
+975,CRS_2123,Any Stream with Mathematics/CS,MBC,126.8,12th
+976,CRS_2123,Any Stream with Mathematics/CS,SC/ST,113.68,12th
+977,CRS_2124,Any Stream with Mathematics/CS,OC,141.48,12th
+978,CRS_2124,Any Stream with Mathematics/CS,BC,135.56,12th
+979,CRS_2124,Any Stream with Mathematics/CS,MBC,128.11,12th
+980,CRS_2124,Any Stream with Mathematics/CS,SC/ST,110.32,12th
+981,CRS_2125,Any Stream with Mathematics/CS,OC,142.79,12th
+982,CRS_2125,Any Stream with Mathematics/CS,BC,137.77,12th
+983,CRS_2125,Any Stream with Mathematics/CS,MBC,133,12th
+984,CRS_2125,Any Stream with Mathematics/CS,SC/ST,114.33,12th
+985,CRS_2126,Any Stream with Mathematics/CS,OC,141.15,12th
+986,CRS_2126,Any Stream with Mathematics/CS,BC,138.11,12th
+987,CRS_2126,Any Stream with Mathematics/CS,MBC,132.14,12th
+988,CRS_2126,Any Stream with Mathematics/CS,SC/ST,116.35,12th
+989,CRS_2127,Any Stream with Mathematics/CS,OC,143.46,12th
+990,CRS_2127,Any Stream with Mathematics/CS,BC,138.46,12th
+991,CRS_2127,Any Stream with Mathematics/CS,MBC,134.59,12th
+992,CRS_2127,Any Stream with Mathematics/CS,SC/ST,117.05,12th
+993,CRS_2128,Any Stream with Mathematics/CS,OC,141.7,12th
+994,CRS_2128,Any Stream with Mathematics/CS,BC,137.34,12th
+995,CRS_2128,Any Stream with Mathematics/CS,MBC,130.46,12th
+996,CRS_2128,Any Stream with Mathematics/CS,SC/ST,116.38,12th
+997,CRS_2129,Any Stream with Mathematics/CS,OC,134.36,12th
+998,CRS_2129,Any Stream with Mathematics/CS,BC,128.45,12th
+999,CRS_2129,Any Stream with Mathematics/CS,MBC,122.31,12th
+1000,CRS_2129,Any Stream with Mathematics/CS,SC/ST,111.78,12th
+1001,CRS_2130,Any Stream with Mathematics/CS,OC,140.7,12th
+1002,CRS_2130,Any Stream with Mathematics/CS,BC,137.13,12th
+1003,CRS_2130,Any Stream with Mathematics/CS,MBC,128.49,12th
+1004,CRS_2130,Any Stream with Mathematics/CS,SC/ST,108.98,12th
+1005,CRS_2131,Any Stream with Mathematics/CS,OC,138.31,12th
+1006,CRS_2131,Any Stream with Mathematics/CS,BC,134.6,12th
+1007,CRS_2131,Any Stream with Mathematics/CS,MBC,129.01,12th
+1008,CRS_2131,Any Stream with Mathematics/CS,SC/ST,116.68,12th
+1009,CRS_2132,Any Stream with Mathematics/CS,OC,133.73,12th
+1010,CRS_2132,Any Stream with Mathematics/CS,BC,128.65,12th
+1011,CRS_2132,Any Stream with Mathematics/CS,MBC,125.07,12th
+1012,CRS_2132,Any Stream with Mathematics/CS,SC/ST,111.4,12th
+1013,CRS_2133,Any Stream with Mathematics/CS,OC,134.79,12th
+1014,CRS_2133,Any Stream with Mathematics/CS,BC,130.79,12th
+1015,CRS_2133,Any Stream with Mathematics/CS,MBC,127.41,12th
+1016,CRS_2133,Any Stream with Mathematics/CS,SC/ST,107.85,12th
+1017,CRS_2134,Any Stream with Mathematics/CS,OC,128.28,12th
+1018,CRS_2134,Any Stream with Mathematics/CS,BC,123.56,12th
+1019,CRS_2134,Any Stream with Mathematics/CS,MBC,116.84,12th
+1020,CRS_2134,Any Stream with Mathematics/CS,SC/ST,109.87,12th
+1021,CRS_2135,Any Stream with Mathematics/CS,OC,131.05,12th
+1022,CRS_2135,Any Stream with Mathematics/CS,BC,125.8,12th
+1023,CRS_2135,Any Stream with Mathematics/CS,MBC,119.84,12th
+1024,CRS_2135,Any Stream with Mathematics/CS,SC/ST,114.6,12th
+1025,CRS_2136,Any Stream with Mathematics/CS,OC,138.92,12th
+1026,CRS_2136,Any Stream with Mathematics/CS,BC,134.48,12th
+1027,CRS_2136,Any Stream with Mathematics/CS,MBC,126.91,12th
+1028,CRS_2136,Any Stream with Mathematics/CS,SC/ST,107.22,12th
+1029,CRS_2137,Any Stream with Mathematics/CS,OC,129.99,12th
+1030,CRS_2137,Any Stream with Mathematics/CS,BC,124.74,12th
+1031,CRS_2137,Any Stream with Mathematics/CS,MBC,116.84,12th
+1032,CRS_2137,Any Stream with Mathematics/CS,SC/ST,100.62,12th
+1033,CRS_2138,Any Stream with Mathematics/CS,OC,138.84,12th
+1034,CRS_2138,Any Stream with Mathematics/CS,BC,133.29,12th
+1035,CRS_2138,Any Stream with Mathematics/CS,MBC,125.91,12th
+1036,CRS_2138,Any Stream with Mathematics/CS,SC/ST,119.99,12th
+1037,CRS_2139,Any Stream with Mathematics/CS,OC,136.57,12th
+1038,CRS_2139,Any Stream with Mathematics/CS,BC,133.38,12th
+1039,CRS_2139,Any Stream with Mathematics/CS,MBC,128.18,12th
+1040,CRS_2139,Any Stream with Mathematics/CS,SC/ST,115.17,12th
+1041,CRS_2140,Any Stream with Mathematics/CS,OC,136.46,12th
+1042,CRS_2140,Any Stream with Mathematics/CS,BC,131.75,12th
+1043,CRS_2140,Any Stream with Mathematics/CS,MBC,123.76,12th
+1044,CRS_2140,Any Stream with Mathematics/CS,SC/ST,110,12th
+1045,CRS_2141,Any Stream with Mathematics/CS,OC,134.79,12th
+1046,CRS_2141,Any Stream with Mathematics/CS,BC,129.34,12th
+1047,CRS_2141,Any Stream with Mathematics/CS,MBC,121.29,12th
+1048,CRS_2141,Any Stream with Mathematics/CS,SC/ST,110.09,12th
+1049,CRS_2142,Any Stream with Mathematics/CS,OC,131.47,12th
+1050,CRS_2142,Any Stream with Mathematics/CS,BC,127.5,12th
+1051,CRS_2142,Any Stream with Mathematics/CS,MBC,120.06,12th
+1052,CRS_2142,Any Stream with Mathematics/CS,SC/ST,113.33,12th
+1053,CRS_2143,Any Stream with Mathematics/CS,OC,139.99,12th
+1054,CRS_2143,Any Stream with Mathematics/CS,BC,135.06,12th
+1055,CRS_2143,Any Stream with Mathematics/CS,MBC,130.15,12th
+1056,CRS_2143,Any Stream with Mathematics/CS,SC/ST,118.71,12th
+1057,CRS_2144,Any Stream with Mathematics/CS,OC,135.15,12th
+1058,CRS_2144,Any Stream with Mathematics/CS,BC,130,12th
+1059,CRS_2144,Any Stream with Mathematics/CS,MBC,122.66,12th
+1060,CRS_2144,Any Stream with Mathematics/CS,SC/ST,111.83,12th
+1061,CRS_2145,Any Stream with Mathematics/CS,OC,136.71,12th
+1062,CRS_2145,Any Stream with Mathematics/CS,BC,132.21,12th
+1063,CRS_2145,Any Stream with Mathematics/CS,MBC,125.07,12th
+1064,CRS_2145,Any Stream with Mathematics/CS,SC/ST,112.92,12th
+1065,CRS_2146,Any Stream with Mathematics/CS,OC,139.37,12th
+1066,CRS_2146,Any Stream with Mathematics/CS,BC,135.63,12th
+1067,CRS_2146,Any Stream with Mathematics/CS,MBC,129.11,12th
+1068,CRS_2146,Any Stream with Mathematics/CS,SC/ST,122.86,12th
+1069,CRS_2147,Any Stream with Mathematics/CS,OC,146.57,12th
+1070,CRS_2147,Any Stream with Mathematics/CS,BC,142.63,12th
+1071,CRS_2147,Any Stream with Mathematics/CS,MBC,132.89,12th
+1072,CRS_2147,Any Stream with Mathematics/CS,SC/ST,128.9,12th
+1073,CRS_2148,Any Stream with Mathematics/CS,OC,142.26,12th
+1074,CRS_2148,Any Stream with Mathematics/CS,BC,136.73,12th
+1075,CRS_2148,Any Stream with Mathematics/CS,MBC,129.11,12th
+1076,CRS_2148,Any Stream with Mathematics/CS,SC/ST,125.76,12th
+1077,CRS_2149,Any Stream with Mathematics/CS,OC,141.31,12th
+1078,CRS_2149,Any Stream with Mathematics/CS,BC,136.34,12th
+1079,CRS_2149,Any Stream with Mathematics/CS,MBC,131.4,12th
+1080,CRS_2149,Any Stream with Mathematics/CS,SC/ST,109.88,12th
+1081,CRS_2150,Any Stream with Mathematics/CS,OC,142.32,12th
+1082,CRS_2150,Any Stream with Mathematics/CS,BC,136.59,12th
+1083,CRS_2150,Any Stream with Mathematics/CS,MBC,133.18,12th
+1084,CRS_2150,Any Stream with Mathematics/CS,SC/ST,111.27,12th
+1085,CRS_2151,Any Stream with Mathematics/CS,OC,143.85,12th
+1086,CRS_2151,Any Stream with Mathematics/CS,BC,139.36,12th
+1087,CRS_2151,Any Stream with Mathematics/CS,MBC,136.23,12th
+1088,CRS_2151,Any Stream with Mathematics/CS,SC/ST,124.65,12th
+1089,CRS_2152,Any Stream with Mathematics/CS,OC,138.17,12th
+1090,CRS_2152,Any Stream with Mathematics/CS,BC,134.71,12th
+1091,CRS_2152,Any Stream with Mathematics/CS,MBC,127.66,12th
+1092,CRS_2152,Any Stream with Mathematics/CS,SC/ST,121.28,12th
+1093,CRS_2153,Any Stream with Mathematics/CS,OC,148.97,12th
+1094,CRS_2153,Any Stream with Mathematics/CS,BC,144.94,12th
+1095,CRS_2153,Any Stream with Mathematics/CS,MBC,141.85,12th
+1096,CRS_2153,Any Stream with Mathematics/CS,SC/ST,122.64,12th
+1097,CRS_2154,Any Stream with Mathematics/CS,OC,147.74,12th
+1098,CRS_2154,Any Stream with Mathematics/CS,BC,143.59,12th
+1099,CRS_2154,Any Stream with Mathematics/CS,MBC,140.1,12th
+1100,CRS_2154,Any Stream with Mathematics/CS,SC/ST,126.16,12th
+1101,CRS_2155,Any Stream with Mathematics/CS,OC,141.65,12th
+1102,CRS_2155,Any Stream with Mathematics/CS,BC,137.41,12th
+1103,CRS_2155,Any Stream with Mathematics/CS,MBC,130.15,12th
+1104,CRS_2155,Any Stream with Mathematics/CS,SC/ST,110.28,12th
+1105,CRS_2156,Any Stream with Mathematics/CS,OC,142.46,12th
+1106,CRS_2156,Any Stream with Mathematics/CS,BC,139.35,12th
+1107,CRS_2156,Any Stream with Mathematics/CS,MBC,132.97,12th
+1108,CRS_2156,Any Stream with Mathematics/CS,SC/ST,119.19,12th
+1109,CRS_2157,Any Stream with Mathematics/CS,OC,143.72,12th
+1110,CRS_2157,Any Stream with Mathematics/CS,BC,137.88,12th
+1111,CRS_2157,Any Stream with Mathematics/CS,MBC,132.32,12th
+1112,CRS_2157,Any Stream with Mathematics/CS,SC/ST,123.17,12th
+1113,CRS_2158,Any Stream with Mathematics/CS,OC,142.31,12th
+1114,CRS_2158,Any Stream with Mathematics/CS,BC,139.2,12th
+1115,CRS_2158,Any Stream with Mathematics/CS,MBC,131.87,12th
+1116,CRS_2158,Any Stream with Mathematics/CS,SC/ST,126,12th
+1117,CRS_2159,Any Stream with Mathematics/CS,OC,141.46,12th
+1118,CRS_2159,Any Stream with Mathematics/CS,BC,136.88,12th
+1119,CRS_2159,Any Stream with Mathematics/CS,MBC,131.68,12th
+1120,CRS_2159,Any Stream with Mathematics/CS,SC/ST,121.61,12th
+1121,CRS_2160,"Commerce, Accountancy, Economics",OC,159.27,12th
+1122,CRS_2160,"Commerce, Accountancy, Economics",BC,155.74,12th
+1123,CRS_2160,"Commerce, Accountancy, Economics",MBC,146.48,12th
+1124,CRS_2160,"Commerce, Accountancy, Economics",SC/ST,129.26,12th
+1125,CRS_2161,"Commerce, Accountancy, Economics",OC,151.42,12th
+1126,CRS_2161,"Commerce, Accountancy, Economics",BC,145.47,12th
+1127,CRS_2161,"Commerce, Accountancy, Economics",MBC,138.83,12th
+1128,CRS_2161,"Commerce, Accountancy, Economics",SC/ST,131.14,12th
+1129,CRS_2162,"Commerce, Accountancy, Economics",OC,151.33,12th
+1130,CRS_2162,"Commerce, Accountancy, Economics",BC,145.37,12th
+1131,CRS_2162,"Commerce, Accountancy, Economics",MBC,139.86,12th
+1132,CRS_2162,"Commerce, Accountancy, Economics",SC/ST,124.74,12th
+1133,CRS_2163,"Commerce, Accountancy, Economics",OC,151.22,12th
+1134,CRS_2163,"Commerce, Accountancy, Economics",BC,147.25,12th
+1135,CRS_2163,"Commerce, Accountancy, Economics",MBC,138.55,12th
+1136,CRS_2163,"Commerce, Accountancy, Economics",SC/ST,134.19,12th
+1137,CRS_2164,"Commerce, Accountancy, Economics",OC,153.5,12th
+1138,CRS_2164,"Commerce, Accountancy, Economics",BC,149.11,12th
+1139,CRS_2164,"Commerce, Accountancy, Economics",MBC,140.83,12th
+1140,CRS_2164,"Commerce, Accountancy, Economics",SC/ST,136.54,12th
+1141,CRS_2165,"Commerce, Accountancy, Mathematics",OC,166.98,12th
+1142,CRS_2165,"Commerce, Accountancy, Mathematics",BC,161.69,12th
+1143,CRS_2165,"Commerce, Accountancy, Mathematics",MBC,157.71,12th
+1144,CRS_2165,"Commerce, Accountancy, Mathematics",SC/ST,136.85,12th
+1145,CRS_2166,"Commerce, Accountancy, Mathematics",OC,171.63,12th
+1146,CRS_2166,"Commerce, Accountancy, Mathematics",BC,166.74,12th
+1147,CRS_2166,"Commerce, Accountancy, Mathematics",MBC,161.81,12th
+1148,CRS_2166,"Commerce, Accountancy, Mathematics",SC/ST,140.94,12th
+1149,CRS_2167,"Commerce, Accountancy, Mathematics",OC,166.39,12th
+1150,CRS_2167,"Commerce, Accountancy, Mathematics",BC,160.96,12th
+1151,CRS_2167,"Commerce, Accountancy, Mathematics",MBC,157.13,12th
+1152,CRS_2167,"Commerce, Accountancy, Mathematics",SC/ST,147.76,12th
+1153,CRS_2168,"Commerce, Accountancy, Mathematics",OC,171.63,12th
+1154,CRS_2168,"Commerce, Accountancy, Mathematics",BC,165.75,12th
+1155,CRS_2168,"Commerce, Accountancy, Mathematics",MBC,160.61,12th
+1156,CRS_2168,"Commerce, Accountancy, Mathematics",SC/ST,141.82,12th
+1157,CRS_2169,"Commerce, Accountancy, Mathematics",OC,172.62,12th
+1158,CRS_2169,"Commerce, Accountancy, Mathematics",BC,168.25,12th
+1159,CRS_2169,"Commerce, Accountancy, Mathematics",MBC,164.82,12th
+1160,CRS_2169,"Commerce, Accountancy, Mathematics",SC/ST,145.54,12th
+1161,CRS_2170,"Commerce, Accountancy, Computer Science",OC,148.72,12th
+1162,CRS_2170,"Commerce, Accountancy, Computer Science",BC,145.41,12th
+1163,CRS_2170,"Commerce, Accountancy, Computer Science",MBC,138.28,12th
+1164,CRS_2170,"Commerce, Accountancy, Computer Science",SC/ST,130.69,12th
+1165,CRS_2171,"Commerce, Accountancy, Computer Science",OC,154.79,12th
+1166,CRS_2171,"Commerce, Accountancy, Computer Science",BC,151.19,12th
+1167,CRS_2171,"Commerce, Accountancy, Computer Science",MBC,145.69,12th
+1168,CRS_2171,"Commerce, Accountancy, Computer Science",SC/ST,124.33,12th
+1169,CRS_2172,"Commerce, Accountancy, Computer Science",OC,142.56,12th
+1170,CRS_2172,"Commerce, Accountancy, Computer Science",BC,137.29,12th
+1171,CRS_2172,"Commerce, Accountancy, Computer Science",MBC,129.82,12th
+1172,CRS_2172,"Commerce, Accountancy, Computer Science",SC/ST,122.27,12th
+1173,CRS_2173,"Commerce, Accountancy, Computer Science",OC,145.2,12th
+1174,CRS_2173,"Commerce, Accountancy, Computer Science",BC,140.49,12th
+1175,CRS_2173,"Commerce, Accountancy, Computer Science",MBC,137.6,12th
+1176,CRS_2173,"Commerce, Accountancy, Computer Science",SC/ST,125.18,12th
+1177,CRS_2174,"Commerce, Accountancy, Computer Science",OC,142.94,12th
+1178,CRS_2174,"Commerce, Accountancy, Computer Science",BC,137.86,12th
+1179,CRS_2174,"Commerce, Accountancy, Computer Science",MBC,133.67,12th
+1180,CRS_2174,"Commerce, Accountancy, Computer Science",SC/ST,113.85,12th
+1181,CRS_2175,Any Stream (Arts/Science/Commerce),OC,130.31,12th
+1182,CRS_2175,Any Stream (Arts/Science/Commerce),BC,126.32,12th
+1183,CRS_2175,Any Stream (Arts/Science/Commerce),MBC,119,12th
+1184,CRS_2175,Any Stream (Arts/Science/Commerce),SC/ST,112.48,12th
+1185,CRS_2176,Any Stream (Arts/Science/Commerce),OC,122.65,12th
+1186,CRS_2176,Any Stream (Arts/Science/Commerce),BC,119.38,12th
+1187,CRS_2176,Any Stream (Arts/Science/Commerce),MBC,109.21,12th
+1188,CRS_2176,Any Stream (Arts/Science/Commerce),SC/ST,104.47,12th
+1189,CRS_2177,Any Stream (Arts/Science/Commerce),OC,125.27,12th
+1190,CRS_2177,Any Stream (Arts/Science/Commerce),BC,121.72,12th
+1191,CRS_2177,Any Stream (Arts/Science/Commerce),MBC,114.39,12th
+1192,CRS_2177,Any Stream (Arts/Science/Commerce),SC/ST,97.55,12th
+1193,CRS_2178,Any Stream (Arts/Science/Commerce),OC,123.11,12th
+1194,CRS_2178,Any Stream (Arts/Science/Commerce),BC,118.86,12th
+1195,CRS_2178,Any Stream (Arts/Science/Commerce),MBC,110.65,12th
+1196,CRS_2178,Any Stream (Arts/Science/Commerce),SC/ST,99.99,12th
+1197,CRS_2179,"PCM (Physics, Chemistry, Mathematics)",OC,141.02,12th
+1198,CRS_2179,"PCM (Physics, Chemistry, Mathematics)",BC,137.58,12th
+1199,CRS_2179,"PCM (Physics, Chemistry, Mathematics)",MBC,130.54,12th
+1200,CRS_2179,"PCM (Physics, Chemistry, Mathematics)",SC/ST,121.6,12th
+1201,CRS_2180,"PCM (Physics, Chemistry, Mathematics)",OC,134.76,12th
+1202,CRS_2180,"PCM (Physics, Chemistry, Mathematics)",BC,130.84,12th
+1203,CRS_2180,"PCM (Physics, Chemistry, Mathematics)",MBC,120.88,12th
+1204,CRS_2180,"PCM (Physics, Chemistry, Mathematics)",SC/ST,113.57,12th
+1205,CRS_2181,"PCM (Physics, Chemistry, Mathematics)",OC,144.52,12th
+1206,CRS_2181,"PCM (Physics, Chemistry, Mathematics)",BC,138.69,12th
+1207,CRS_2181,"PCM (Physics, Chemistry, Mathematics)",MBC,131.29,12th
+1208,CRS_2181,"PCM (Physics, Chemistry, Mathematics)",SC/ST,128.18,12th
+1209,CRS_2182,"PCM (Physics, Chemistry, Mathematics)",OC,143.63,12th
+1210,CRS_2182,"PCM (Physics, Chemistry, Mathematics)",BC,138.41,12th
+1211,CRS_2182,"PCM (Physics, Chemistry, Mathematics)",MBC,135.28,12th
+1212,CRS_2182,"PCM (Physics, Chemistry, Mathematics)",SC/ST,115.62,12th
+1213,CRS_2183,"PCM (Physics, Chemistry, Mathematics)",OC,141.01,12th
+1214,CRS_2183,"PCM (Physics, Chemistry, Mathematics)",BC,136.05,12th
+1215,CRS_2183,"PCM (Physics, Chemistry, Mathematics)",MBC,129.02,12th
+1216,CRS_2183,"PCM (Physics, Chemistry, Mathematics)",SC/ST,111.95,12th
+1217,CRS_2184,"PCM (Physics, Chemistry, Mathematics)",OC,134.64,12th
+1218,CRS_2184,"PCM (Physics, Chemistry, Mathematics)",BC,131.18,12th
+1219,CRS_2184,"PCM (Physics, Chemistry, Mathematics)",MBC,121.95,12th
+1220,CRS_2184,"PCM (Physics, Chemistry, Mathematics)",SC/ST,115.78,12th
+1221,CRS_2185,"PCM (Physics, Chemistry, Mathematics)",OC,141.76,12th
+1222,CRS_2185,"PCM (Physics, Chemistry, Mathematics)",BC,136.11,12th
+1223,CRS_2185,"PCM (Physics, Chemistry, Mathematics)",MBC,133.46,12th
+1224,CRS_2185,"PCM (Physics, Chemistry, Mathematics)",SC/ST,111.09,12th
+1225,CRS_2186,"PCM (Physics, Chemistry, Mathematics)",OC,140.56,12th
+1226,CRS_2186,"PCM (Physics, Chemistry, Mathematics)",BC,134.59,12th
+1227,CRS_2186,"PCM (Physics, Chemistry, Mathematics)",MBC,131.73,12th
+1228,CRS_2186,"PCM (Physics, Chemistry, Mathematics)",SC/ST,117.26,12th
+1229,CRS_2187,"PCM (Physics, Chemistry, Mathematics)",OC,144.87,12th
+1230,CRS_2187,"PCM (Physics, Chemistry, Mathematics)",BC,141.84,12th
+1231,CRS_2187,"PCM (Physics, Chemistry, Mathematics)",MBC,137.33,12th
+1232,CRS_2187,"PCM (Physics, Chemistry, Mathematics)",SC/ST,117.5,12th
+1233,CRS_2188,"PCM (Physics, Chemistry, Mathematics)",OC,138.72,12th
+1234,CRS_2188,"PCM (Physics, Chemistry, Mathematics)",BC,134.62,12th
+1235,CRS_2188,"PCM (Physics, Chemistry, Mathematics)",MBC,126.45,12th
+1236,CRS_2188,"PCM (Physics, Chemistry, Mathematics)",SC/ST,113.22,12th
+1237,CRS_2189,"PCM (Physics, Chemistry, Mathematics)",OC,135.22,12th
+1238,CRS_2189,"PCM (Physics, Chemistry, Mathematics)",BC,129.8,12th
+1239,CRS_2189,"PCM (Physics, Chemistry, Mathematics)",MBC,123.61,12th
+1240,CRS_2189,"PCM (Physics, Chemistry, Mathematics)",SC/ST,103.56,12th
+1241,CRS_2190,"PCM (Physics, Chemistry, Mathematics)",OC,137.02,12th
+1242,CRS_2190,"PCM (Physics, Chemistry, Mathematics)",BC,132.18,12th
+1243,CRS_2190,"PCM (Physics, Chemistry, Mathematics)",MBC,126.29,12th
+1244,CRS_2190,"PCM (Physics, Chemistry, Mathematics)",SC/ST,112.92,12th
+1245,CRS_2191,"PCM (Physics, Chemistry, Mathematics)",OC,131.84,12th
+1246,CRS_2191,"PCM (Physics, Chemistry, Mathematics)",BC,128.51,12th
+1247,CRS_2191,"PCM (Physics, Chemistry, Mathematics)",MBC,119.18,12th
+1248,CRS_2191,"PCM (Physics, Chemistry, Mathematics)",SC/ST,109.43,12th
+1249,CRS_2192,"PCM (Physics, Chemistry, Mathematics)",OC,122.89,12th
+1250,CRS_2192,"PCM (Physics, Chemistry, Mathematics)",BC,119.69,12th
+1251,CRS_2192,"PCM (Physics, Chemistry, Mathematics)",MBC,110.16,12th
+1252,CRS_2192,"PCM (Physics, Chemistry, Mathematics)",SC/ST,102.23,12th
+1253,CRS_2193,"PCM (Physics, Chemistry, Mathematics)",OC,122.78,12th
+1254,CRS_2193,"PCM (Physics, Chemistry, Mathematics)",BC,119.31,12th
+1255,CRS_2193,"PCM (Physics, Chemistry, Mathematics)",MBC,111.43,12th
+1256,CRS_2193,"PCM (Physics, Chemistry, Mathematics)",SC/ST,106.16,12th
+1257,CRS_2194,"PCM (Physics, Chemistry, Mathematics)",OC,134.13,12th
+1258,CRS_2194,"PCM (Physics, Chemistry, Mathematics)",BC,129.13,12th
+1259,CRS_2194,"PCM (Physics, Chemistry, Mathematics)",MBC,121.42,12th
+1260,CRS_2194,"PCM (Physics, Chemistry, Mathematics)",SC/ST,103.68,12th
+1261,CRS_2195,"PCM (Physics, Chemistry, Mathematics)",OC,127.13,12th
+1262,CRS_2195,"PCM (Physics, Chemistry, Mathematics)",BC,123.1,12th
+1263,CRS_2195,"PCM (Physics, Chemistry, Mathematics)",MBC,113.4,12th
+1264,CRS_2195,"PCM (Physics, Chemistry, Mathematics)",SC/ST,109.37,12th
+1265,CRS_2196,"PCM (Physics, Chemistry, Mathematics)",OC,129.12,12th
+1266,CRS_2196,"PCM (Physics, Chemistry, Mathematics)",BC,125.24,12th
+1267,CRS_2196,"PCM (Physics, Chemistry, Mathematics)",MBC,116.18,12th
+1268,CRS_2196,"PCM (Physics, Chemistry, Mathematics)",SC/ST,99.32,12th
+1269,CRS_2197,"PCM (Physics, Chemistry, Mathematics)",OC,134.55,12th
+1270,CRS_2197,"PCM (Physics, Chemistry, Mathematics)",BC,129.77,12th
+1271,CRS_2197,"PCM (Physics, Chemistry, Mathematics)",MBC,127.41,12th
+1272,CRS_2197,"PCM (Physics, Chemistry, Mathematics)",SC/ST,116.81,12th
+1273,CRS_2198,"PCM (Physics, Chemistry, Mathematics)",OC,122.41,12th
+1274,CRS_2198,"PCM (Physics, Chemistry, Mathematics)",BC,116.54,12th
+1275,CRS_2198,"PCM (Physics, Chemistry, Mathematics)",MBC,112.46,12th
+1276,CRS_2198,"PCM (Physics, Chemistry, Mathematics)",SC/ST,91.19,12th
+1277,CRS_2199,"PCM (Physics, Chemistry, Mathematics)",OC,131.88,12th
+1278,CRS_2199,"PCM (Physics, Chemistry, Mathematics)",BC,128.41,12th
+1279,CRS_2199,"PCM (Physics, Chemistry, Mathematics)",MBC,122.83,12th
+1280,CRS_2199,"PCM (Physics, Chemistry, Mathematics)",SC/ST,113.88,12th
+1281,CRS_2200,"PCM (Physics, Chemistry, Mathematics)",OC,129.21,12th
+1282,CRS_2200,"PCM (Physics, Chemistry, Mathematics)",BC,124.59,12th
+1283,CRS_2200,"PCM (Physics, Chemistry, Mathematics)",MBC,119.25,12th
+1284,CRS_2200,"PCM (Physics, Chemistry, Mathematics)",SC/ST,99.72,12th
