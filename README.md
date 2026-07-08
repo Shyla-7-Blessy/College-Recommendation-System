@@ -150,7 +150,9 @@ uvicorn app.main:app --reload
 Open your browser:
 
 ```
-http://127.0.0.1:8000
+http://127.0.0.1<img width="1920" height="855" alt="home_page" src="https://github.com/user-attachments/assets/d9b9d7e1-1fde-4ba3-aa0d-330395a9a985" />
+<img width="1920" height="855" alt="home_page" src="https://github.com/user-attachments/assets/57cd93af-6908-4cae-9e13-9fe7ddf78122" />
+:8000
 ```
 
 ---
@@ -170,29 +172,30 @@ http://127.0.0.1:8000
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
+### 🏠 Home Page & Student Input Form
 
-*(Add screenshot here)*
-
----
-
-### 📝 Student Input Form
-
-*(Add screenshot here)*
+*<img width="1920" height="855" alt="home_page" src="https://github.com/user-attachments/assets/6c35194b-3e46-43db-a588-6b233fb6c445" />
+*
 
 ---
+
 
 ### 🎯 College Recommendations
 
-*(Add screenshot here)*
+*<img width="1920" height="839" alt="colleges_recommended" src="https://github.com/user-attachments/assets/9e6186df-7ded-4996-b0af-8e6839085abf" />
+<img width="1920" height="848" alt="colleges_recommended3" src="https://github.com/user-attachments/assets/b2a7c57a-fb26-4be7-9cf4-71008967aee9" />
+<img width="1920" height="844" alt="colleges_recommended2" src="https://github.com/user-attachments/assets/c36b9d43-44b7-4927-bbf8-30fe9afa9346" />
+*
 
 ---
 
 ### 🤖 AI Explanation
 
-*(Add screenshot here)*
+*<img width="1920" height="844" alt="ai_explainaton" src="https://github.com/user-attachments/assets/89c4d534-0d45-4230-98e1-c77673b0078d" />
+*
 
 ---
+
 
 ## 🎯 Future Enhancements
 
@@ -201,6 +204,7 @@ http://127.0.0.1:8000
 - College comparison dashboard
 - Admission cutoff trend prediction
 - Recommendation confidence score
+- Mobile application (Android & iOS) for seamless college recommendations
 - PDF report generation
 - Cloud deployment (AWS/Azure)
 
